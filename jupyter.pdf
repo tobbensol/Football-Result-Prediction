@@ -1054,7 +1054,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9d14457b",
+   "id": "c743b0da",
    "metadata": {},
    "source": [
     "these graphs shows how the ranking of the team and the average age of the team members are related, you can see that the data varies a lot from year to year and that the data is unconsistent with where the teams rank. the only consistent data i can find is that there are on average more young people at the lower half of the results than there are on the upper half of the rankings, but there are relatively youg teams placeing in the upper half in 2018, so it is hard to use this data to predict anything because it is so inconsistent.<br><br>\n",
@@ -1064,7 +1064,7 @@
   {
    "cell_type": "code",
    "execution_count": 40,
-   "id": "4e80c944",
+   "id": "19fcad18",
    "metadata": {},
    "outputs": [
     {
@@ -1113,7 +1113,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5b4770d4",
+   "id": "29e8f0c8",
    "metadata": {},
    "source": [
     "her kan man se at målforskjellen er knyttet til possisjonen til laget. lag som gjorde det dårlig er de som slepper inn fleire mål en motstanderen, og lag som gjorde det bra skårte fleire mål en motstanderen. så dette gir meining, men så kan vi se på om det lønner seg å spille agresivt og skåre mange mål, eller deffansivt å skåre få mål"
@@ -1122,7 +1122,7 @@
   {
    "cell_type": "code",
    "execution_count": 41,
-   "id": "e17aad02",
+   "id": "1a63c37a",
    "metadata": {},
    "outputs": [
     {
@@ -1171,7 +1171,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3163ea3a",
+   "id": "300de849",
    "metadata": {},
    "source": [
     "her ser man att det er de som får flest mål som gjør det best, det er noen untak, som 2. plass hvert år, men generelt er det de som skårer mest som vinner cupen. eg tolker dette som om at de offansive lagene vanligvis gjør det bedre en de defansive lagene. "
@@ -1180,7 +1180,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "eec47639",
+   "id": "4266b0ce",
    "metadata": {},
    "outputs": [],
    "source": []
