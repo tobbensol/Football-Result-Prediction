@@ -1,797 +1,797 @@
-ID,Date,Season,Team,Opponent,Venue,Goals,Winner
-0,2017-04-17,2017,Medkila,Sandviken,Home,1,Draw
-0,2017-04-17,2017,Sandviken,Medkila,Away,1,Draw
-1,2017-04-17,2017,Avaldsnes,Vålerenga,Home,2,Home
-1,2017-04-17,2017,Vålerenga,Avaldsnes,Away,1,Home
-2,2017-04-17,2017,Grand Bodø,Arna-Bjørnar,Home,2,Draw
-2,2017-04-17,2017,Arna-Bjørnar,Grand Bodø,Away,2,Draw
-3,2017-04-17,2017,Røa,Stabæk,Home,1,Away
-3,2017-04-17,2017,Stabæk,Røa,Away,2,Away
-4,2017-04-17,2017,LSK Kvinner,Klepp,Home,6,Home
-4,2017-04-17,2017,Klepp,LSK Kvinner,Away,1,Home
-5,2017-04-17,2017,Trondheims-Ørn,Kolbotn,Home,3,Home
-5,2017-04-17,2017,Kolbotn,Trondheims-Ørn,Away,2,Home
-7,2017-04-22,2017,Arna-Bjørnar,LSK Kvinner,Home,1,Draw
-7,2017-04-22,2017,LSK Kvinner,Arna-Bjørnar,Away,1,Draw
-8,2017-04-22,2017,Vålerenga,Røa,Home,0,Away
-8,2017-04-22,2017,Røa,Vålerenga,Away,2,Away
-9,2017-04-22,2017,Kolbotn,Avaldsnes,Home,1,Away
-9,2017-04-22,2017,Avaldsnes,Kolbotn,Away,5,Away
-10,2017-04-23,2017,Stabæk,Medkila,Home,6,Home
-10,2017-04-23,2017,Medkila,Stabæk,Away,1,Home
-11,2017-04-23,2017,Sandviken,Trondheims-Ørn,Home,2,Draw
-11,2017-04-23,2017,Trondheims-Ørn,Sandviken,Away,2,Draw
-12,2017-04-23,2017,Klepp,Grand Bodø,Home,4,Home
-12,2017-04-23,2017,Grand Bodø,Klepp,Away,2,Home
-14,2017-04-28,2017,Stabæk,Grand Bodø,Home,5,Home
-14,2017-04-28,2017,Grand Bodø,Stabæk,Away,1,Home
-15,2017-04-29,2017,Vålerenga,Arna-Bjørnar,Home,2,Draw
-15,2017-04-29,2017,Arna-Bjørnar,Vålerenga,Away,2,Draw
-17,2017-04-30,2017,Avaldsnes,Røa,Home,0,Draw
-17,2017-04-30,2017,Røa,Avaldsnes,Away,0,Draw
-19,2017-05-06,2017,Trondheims-Ørn,Vålerenga,Home,2,Draw
-19,2017-05-06,2017,Vålerenga,Trondheims-Ørn,Away,2,Draw
-20,2017-05-06,2017,Sandviken,Kolbotn,Home,1,Away
-20,2017-05-06,2017,Kolbotn,Sandviken,Away,2,Away
-21,2017-05-06,2017,Røa,Arna-Bjørnar,Home,1,Away
-21,2017-05-06,2017,Arna-Bjørnar,Røa,Away,2,Away
-22,2017-05-07,2017,Medkila,Klepp,Home,0,Away
-22,2017-05-07,2017,Klepp,Medkila,Away,5,Away
-23,2017-05-07,2017,Avaldsnes,Stabæk,Home,2,Home
-23,2017-05-07,2017,Stabæk,Avaldsnes,Away,1,Home
-24,2017-05-07,2017,LSK Kvinner,Grand Bodø,Home,9,Home
-24,2017-05-07,2017,Grand Bodø,LSK Kvinner,Away,1,Home
-26,2017-05-12,2017,Grand Bodø,Avaldsnes,Home,2,Away
-26,2017-05-12,2017,Avaldsnes,Grand Bodø,Away,3,Away
-27,2017-05-12,2017,Stabæk,Kolbotn,Home,2,Home
-27,2017-05-12,2017,Kolbotn,Stabæk,Away,0,Home
-28,2017-05-13,2017,Klepp,Røa,Home,1,Draw
-28,2017-05-13,2017,Røa,Klepp,Away,1,Draw
-29,2017-05-13,2017,Arna-Bjørnar,Trondheims-Ørn,Home,2,Home
-29,2017-05-13,2017,Trondheims-Ørn,Arna-Bjørnar,Away,0,Home
-30,2017-05-13,2017,Vålerenga,Sandviken,Home,1,Home
-30,2017-05-13,2017,Sandviken,Vålerenga,Away,0,Home
-31,2017-05-13,2017,LSK Kvinner,Medkila,Home,3,Home
-31,2017-05-13,2017,Medkila,LSK Kvinner,Away,1,Home
-33,2017-05-16,2017,Trondheims-Ørn,Stabæk,Home,0,Away
-33,2017-05-16,2017,Stabæk,Trondheims-Ørn,Away,4,Away
-34,2017-05-16,2017,Medkila,Grand Bodø,Home,1,Away
-34,2017-05-16,2017,Grand Bodø,Medkila,Away,3,Away
-35,2017-05-16,2017,Røa,LSK Kvinner,Home,2,Away
-35,2017-05-16,2017,LSK Kvinner,Røa,Away,3,Away
-36,2017-05-16,2017,Avaldsnes,Klepp,Home,2,Home
-36,2017-05-16,2017,Klepp,Avaldsnes,Away,0,Home
-37,2017-05-16,2017,Kolbotn,Vålerenga,Home,0,Away
-37,2017-05-16,2017,Vålerenga,Kolbotn,Away,2,Away
-39,2017-05-20,2017,Klepp,Vålerenga,Home,2,Home
-39,2017-05-20,2017,Vålerenga,Klepp,Away,0,Home
-40,2017-05-20,2017,LSK Kvinner,Trondheims-Ørn,Home,3,Home
-40,2017-05-20,2017,Trondheims-Ørn,LSK Kvinner,Away,0,Home
-41,2017-05-20,2017,Stabæk,Sandviken,Home,1,Home
-41,2017-05-20,2017,Sandviken,Stabæk,Away,0,Home
-42,2017-05-21,2017,Grand Bodø,Røa,Home,1,Away
-42,2017-05-21,2017,Røa,Grand Bodø,Away,2,Away
-43,2017-05-22,2017,Medkila,Avaldsnes,Home,0,Away
-43,2017-05-22,2017,Avaldsnes,Medkila,Away,2,Away
-44,2017-05-23,2017,Arna-Bjørnar,Kolbotn,Home,3,Home
-44,2017-05-23,2017,Kolbotn,Arna-Bjørnar,Away,0,Home
-46,2017-05-27,2017,Trondheims-Ørn,Grand Bodø,Home,3,Home
-46,2017-05-27,2017,Grand Bodø,Trondheims-Ørn,Away,1,Home
-47,2017-05-27,2017,Avaldsnes,Arna-Bjørnar,Home,2,Draw
-47,2017-05-27,2017,Arna-Bjørnar,Avaldsnes,Away,2,Draw
-48,2017-05-27,2017,Kolbotn,Klepp,Home,0,Away
-48,2017-05-27,2017,Klepp,Kolbotn,Away,2,Away
-49,2017-05-27,2017,Sandviken,LSK Kvinner,Home,1,Away
-49,2017-05-27,2017,LSK Kvinner,Sandviken,Away,2,Away
-50,2017-05-28,2017,Røa,Medkila,Home,4,Home
-50,2017-05-28,2017,Medkila,Røa,Away,0,Home
-52,2017-06-03,2017,LSK Kvinner,Kolbotn,Home,0,Draw
-52,2017-06-03,2017,Kolbotn,LSK Kvinner,Away,0,Draw
-53,2017-06-03,2017,Klepp,Trondheims-Ørn,Home,1,Home
-53,2017-06-03,2017,Trondheims-Ørn,Klepp,Away,0,Home
-54,2017-06-03,2017,Arna-Bjørnar,Stabæk,Home,1,Draw
-54,2017-06-03,2017,Stabæk,Arna-Bjørnar,Away,1,Draw
-55,2017-06-04,2017,Røa,Avaldsnes,Home,3,Draw
-55,2017-06-04,2017,Avaldsnes,Røa,Away,3,Draw
-56,2017-06-04,2017,Medkila,Vålerenga,Home,1,Away
-56,2017-06-04,2017,Vålerenga,Medkila,Away,6,Away
-57,2017-06-04,2017,Grand Bodø,Sandviken,Home,1,Away
-57,2017-06-04,2017,Sandviken,Grand Bodø,Away,5,Away
-59,2017-06-17,2017,Sandviken,Klepp,Home,0,Away
-59,2017-06-17,2017,Klepp,Sandviken,Away,1,Away
-60,2017-06-17,2017,Kolbotn,Røa,Home,0,Away
-60,2017-06-17,2017,Røa,Kolbotn,Away,3,Away
-61,2017-06-18,2017,Trondheims-Ørn,Medkila,Home,3,Home
-61,2017-06-18,2017,Medkila,Trondheims-Ørn,Away,0,Home
-62,2017-06-18,2017,Avaldsnes,LSK Kvinner,Home,0,Away
-62,2017-06-18,2017,LSK Kvinner,Avaldsnes,Away,1,Away
-64,2017-06-24,2017,Røa,Sandviken,Home,4,Home
-64,2017-06-24,2017,Sandviken,Røa,Away,0,Home
-65,2017-06-24,2017,Klepp,Stabæk,Home,2,Draw
-65,2017-06-24,2017,Stabæk,Klepp,Away,2,Draw
-66,2017-06-24,2017,LSK Kvinner,Vålerenga,Home,2,Home
-66,2017-06-24,2017,Vålerenga,LSK Kvinner,Away,1,Home
-67,2017-06-24,2017,Grand Bodø,Kolbotn,Home,1,Draw
-67,2017-06-24,2017,Kolbotn,Grand Bodø,Away,1,Draw
-68,2017-06-25,2017,Medkila,Arna-Bjørnar,Home,0,Away
-68,2017-06-25,2017,Arna-Bjørnar,Medkila,Away,1,Away
-69,2017-06-25,2017,Avaldsnes,Trondheims-Ørn,Home,1,Home
-69,2017-06-25,2017,Trondheims-Ørn,Avaldsnes,Away,0,Home
-71,2017-06-27,2017,Stabæk,LSK Kvinner,Home,0,Away
-71,2017-06-27,2017,LSK Kvinner,Stabæk,Away,1,Away
-72,2017-06-28,2017,Trondheims-Ørn,Røa,Home,0,Draw
-72,2017-06-28,2017,Røa,Trondheims-Ørn,Away,0,Draw
-73,2017-06-28,2017,Arna-Bjørnar,Klepp,Home,3,Home
-73,2017-06-28,2017,Klepp,Arna-Bjørnar,Away,1,Home
-74,2017-06-28,2017,Vålerenga,Grand Bodø,Home,2,Home
-74,2017-06-28,2017,Grand Bodø,Vålerenga,Away,0,Home
-75,2017-06-28,2017,Sandviken,Avaldsnes,Home,0,Away
-75,2017-06-28,2017,Avaldsnes,Sandviken,Away,1,Away
-76,2017-06-28,2017,Kolbotn,Medkila,Home,2,Home
-76,2017-06-28,2017,Medkila,Kolbotn,Away,0,Home
-78,2017-07-01,2017,LSK Kvinner,Sandviken,Home,2,Home
-78,2017-07-01,2017,Sandviken,LSK Kvinner,Away,0,Home
-79,2017-07-01,2017,Røa,Vålerenga,Home,4,Home
-79,2017-07-01,2017,Vålerenga,Røa,Away,3,Home
-80,2017-07-01,2017,Klepp,Kolbotn,Home,4,Home
-80,2017-07-01,2017,Kolbotn,Klepp,Away,1,Home
-81,2017-07-02,2017,Medkila,Stabæk,Home,0,Away
-81,2017-07-02,2017,Stabæk,Medkila,Away,1,Away
-82,2017-07-02,2017,Arna-Bjørnar,Avaldsnes,Home,0,Away
-82,2017-07-02,2017,Avaldsnes,Arna-Bjørnar,Away,3,Away
-83,2017-07-02,2017,Grand Bodø,Trondheims-Ørn,Home,1,Away
-83,2017-07-02,2017,Trondheims-Ørn,Grand Bodø,Away,6,Away
-85,2017-08-11,2017,Trondheims-Ørn,LSK Kvinner,Home,4,Home
-85,2017-08-11,2017,LSK Kvinner,Trondheims-Ørn,Away,1,Home
-86,2017-08-11,2017,Avaldsnes,Grand Bodø,Home,5,Home
-86,2017-08-11,2017,Grand Bodø,Avaldsnes,Away,0,Home
-87,2017-08-12,2017,Kolbotn,Arna-Bjørnar,Home,0,Away
-87,2017-08-12,2017,Arna-Bjørnar,Kolbotn,Away,1,Away
-88,2017-08-12,2017,Vålerenga,Klepp,Home,1,Home
-88,2017-08-12,2017,Klepp,Vålerenga,Away,0,Home
-89,2017-08-12,2017,Stabæk,Røa,Home,2,Home
-89,2017-08-12,2017,Røa,Stabæk,Away,0,Home
-90,2017-08-13,2017,Sandviken,Medkila,Home,1,Draw
-90,2017-08-13,2017,Medkila,Sandviken,Away,1,Draw
-92,2017-08-17,2017,LSK Kvinner,Avaldsnes,Home,1,Home
-92,2017-08-17,2017,Avaldsnes,LSK Kvinner,Away,0,Home
-93,2017-08-19,2017,Røa,Kolbotn,Home,2,Home
-93,2017-08-19,2017,Kolbotn,Røa,Away,0,Home
-94,2017-08-19,2017,Arna-Bjørnar,Vålerenga,Home,2,Away
-94,2017-08-19,2017,Vålerenga,Arna-Bjørnar,Away,3,Away
-95,2017-08-19,2017,Klepp,Sandviken,Home,0,Draw
-95,2017-08-19,2017,Sandviken,Klepp,Away,0,Draw
-96,2017-08-20,2017,Medkila,Trondheims-Ørn,Home,0,Away
-96,2017-08-20,2017,Trondheims-Ørn,Medkila,Away,2,Away
-97,2017-08-20,2017,Grand Bodø,Stabæk,Home,1,Away
-97,2017-08-20,2017,Stabæk,Grand Bodø,Away,2,Away
-99,2017-08-23,2017,Sandviken,Arna-Bjørnar,Home,2,Home
-99,2017-08-23,2017,Arna-Bjørnar,Sandviken,Away,0,Home
-101,2017-08-26,2017,Grand Bodø,LSK Kvinner,Home,0,Away
-101,2017-08-26,2017,LSK Kvinner,Grand Bodø,Away,6,Away
-102,2017-08-26,2017,Stabæk,Klepp,Home,0,Away
-102,2017-08-26,2017,Klepp,Stabæk,Away,1,Away
-103,2017-08-26,2017,Kolbotn,Sandviken,Home,1,Draw
-103,2017-08-26,2017,Sandviken,Kolbotn,Away,1,Draw
-104,2017-08-27,2017,Vålerenga,Medkila,Home,3,Home
-104,2017-08-27,2017,Medkila,Vålerenga,Away,1,Home
-105,2017-08-27,2017,Trondheims-Ørn,Arna-Bjørnar,Home,1,Draw
-105,2017-08-27,2017,Arna-Bjørnar,Trondheims-Ørn,Away,1,Draw
-107,2017-09-02,2017,Røa,Trondheims-Ørn,Home,4,Home
-107,2017-09-02,2017,Trondheims-Ørn,Røa,Away,1,Home
-108,2017-09-02,2017,Kolbotn,Stabæk,Home,0,Away
-108,2017-09-02,2017,Stabæk,Kolbotn,Away,2,Away
-109,2017-09-02,2017,Medkila,LSK Kvinner,Home,0,Away
-109,2017-09-02,2017,LSK Kvinner,Medkila,Away,6,Away
-110,2017-09-03,2017,Sandviken,Vålerenga,Home,2,Home
-110,2017-09-03,2017,Vålerenga,Sandviken,Away,0,Home
-111,2017-09-03,2017,Arna-Bjørnar,Grand Bodø,Home,5,Home
-111,2017-09-03,2017,Grand Bodø,Arna-Bjørnar,Away,2,Home
-113,2017-09-06,2017,Avaldsnes,Kolbotn,Home,4,Home
-113,2017-09-06,2017,Kolbotn,Avaldsnes,Away,1,Home
-114,2017-09-06,2017,LSK Kvinner,Arna-Bjørnar,Home,2,Home
-114,2017-09-06,2017,Arna-Bjørnar,LSK Kvinner,Away,0,Home
-116,2017-09-09,2017,LSK Kvinner,Røa,Home,6,Home
-116,2017-09-09,2017,Røa,LSK Kvinner,Away,1,Home
-117,2017-09-09,2017,Stabæk,Arna-Bjørnar,Home,3,Draw
-117,2017-09-09,2017,Arna-Bjørnar,Stabæk,Away,3,Draw
-118,2017-09-09,2017,Vålerenga,Kolbotn,Home,2,Home
-118,2017-09-09,2017,Kolbotn,Vålerenga,Away,0,Home
-119,2017-09-09,2017,Grand Bodø,Medkila,Home,4,Home
-119,2017-09-09,2017,Medkila,Grand Bodø,Away,0,Home
-120,2017-09-10,2017,Avaldsnes,Sandviken,Home,6,Home
-120,2017-09-10,2017,Sandviken,Avaldsnes,Away,0,Home
-121,2017-09-10,2017,Trondheims-Ørn,Klepp,Home,3,Home
-121,2017-09-10,2017,Klepp,Trondheims-Ørn,Away,1,Home
-123,2017-09-23,2017,Vålerenga,Avaldsnes,Home,0,Away
-123,2017-09-23,2017,Avaldsnes,Vålerenga,Away,1,Away
-124,2017-09-23,2017,Kolbotn,Trondheims-Ørn,Home,0,Away
-124,2017-09-23,2017,Trondheims-Ørn,Kolbotn,Away,1,Away
-125,2017-09-23,2017,Klepp,LSK Kvinner,Home,0,Away
-125,2017-09-23,2017,LSK Kvinner,Klepp,Away,2,Away
-126,2017-09-24,2017,Røa,Grand Bodø,Home,4,Home
-126,2017-09-24,2017,Grand Bodø,Røa,Away,2,Home
-128,2017-09-27,2017,Klepp,Avaldsnes,Home,1,Home
-128,2017-09-27,2017,Avaldsnes,Klepp,Away,0,Home
-130,2017-09-27,2017,Vålerenga,Stabæk,Home,1,Draw
-130,2017-09-27,2017,Stabæk,Vålerenga,Away,1,Draw
-132,2017-10-03,2017,Sandviken,Stabæk,Home,1,Away
-132,2017-10-03,2017,Stabæk,Sandviken,Away,2,Away
-133,2017-10-04,2017,Arna-Bjørnar,Medkila,Home,6,Home
-133,2017-10-04,2017,Medkila,Arna-Bjørnar,Away,0,Home
-135,2017-10-07,2017,Stabæk,Vålerenga,Home,0,Away
-135,2017-10-07,2017,Vålerenga,Stabæk,Away,1,Away
-136,2017-10-08,2017,Grand Bodø,Klepp,Home,1,Away
-136,2017-10-08,2017,Klepp,Grand Bodø,Away,4,Away
-137,2017-10-08,2017,Medkila,Røa,Home,1,Home
-137,2017-10-08,2017,Røa,Medkila,Away,0,Home
-138,2017-10-08,2017,Trondheims-Ørn,Sandviken,Home,0,Draw
-138,2017-10-08,2017,Sandviken,Trondheims-Ørn,Away,0,Draw
-140,2017-10-14,2017,Klepp,Medkila,Home,2,Home
-140,2017-10-14,2017,Medkila,Klepp,Away,0,Home
-141,2017-10-14,2017,Vålerenga,Trondheims-Ørn,Home,2,Draw
-141,2017-10-14,2017,Trondheims-Ørn,Vålerenga,Away,2,Draw
-142,2017-10-14,2017,Arna-Bjørnar,Røa,Home,0,Away
-142,2017-10-14,2017,Røa,Arna-Bjørnar,Away,2,Away
-143,2017-10-15,2017,Sandviken,Grand Bodø,Home,6,Home
-143,2017-10-15,2017,Grand Bodø,Sandviken,Away,2,Home
-144,2017-10-15,2017,Kolbotn,LSK Kvinner,Home,1,Away
-144,2017-10-15,2017,LSK Kvinner,Kolbotn,Away,3,Away
-145,2017-10-15,2017,Stabæk,Avaldsnes,Home,2,Home
-145,2017-10-15,2017,Avaldsnes,Stabæk,Away,1,Home
-147,2017-10-28,2017,Røa,Klepp,Home,0,Away
-147,2017-10-28,2017,Klepp,Røa,Away,1,Away
-148,2017-10-28,2017,LSK Kvinner,Stabæk,Home,3,Home
-148,2017-10-28,2017,Stabæk,LSK Kvinner,Away,2,Home
-149,2017-10-28,2017,Arna-Bjørnar,Sandviken,Home,2,Home
-149,2017-10-28,2017,Sandviken,Arna-Bjørnar,Away,0,Home
-150,2017-10-28,2017,Grand Bodø,Vålerenga,Home,2,Away
-150,2017-10-28,2017,Vålerenga,Grand Bodø,Away,3,Away
-151,2017-10-28,2017,Medkila,Kolbotn,Home,1,Away
-151,2017-10-28,2017,Kolbotn,Medkila,Away,3,Away
-152,2017-10-28,2017,Trondheims-Ørn,Avaldsnes,Home,1,Away
-152,2017-10-28,2017,Avaldsnes,Trondheims-Ørn,Away,3,Away
-154,2017-11-04,2017,Klepp,Arna-Bjørnar,Home,0,Draw
-154,2017-11-04,2017,Arna-Bjørnar,Klepp,Away,0,Draw
-155,2017-11-04,2017,Stabæk,Trondheims-Ørn,Home,5,Home
-155,2017-11-04,2017,Trondheims-Ørn,Stabæk,Away,2,Home
-156,2017-11-04,2017,Avaldsnes,Medkila,Home,5,Home
-156,2017-11-04,2017,Medkila,Avaldsnes,Away,0,Home
-157,2017-11-04,2017,Kolbotn,Grand Bodø,Home,2,Home
-157,2017-11-04,2017,Grand Bodø,Kolbotn,Away,0,Home
-158,2017-11-04,2017,Sandviken,Røa,Home,0,Away
-158,2017-11-04,2017,Røa,Sandviken,Away,2,Away
-159,2017-11-04,2017,Vålerenga,LSK Kvinner,Home,2,Away
-159,2017-11-04,2017,LSK Kvinner,Vålerenga,Away,5,Away
-0,2018-03-24,2018,Sandviken,Kolbotn,Home,0,Away
-0,2018-03-24,2018,Kolbotn,Sandviken,Away,1,Away
-1,2018-03-24,2018,Klepp,Arna-Bjørnar,Home,1,Away
-1,2018-03-24,2018,Arna-Bjørnar,Klepp,Away,2,Away
-2,2018-03-24,2018,Grand Bodø,Trondheims-Ørn,Home,2,Home
-2,2018-03-24,2018,Trondheims-Ørn,Grand Bodø,Away,1,Home
-3,2018-03-24,2018,Røa,Lyn,Home,1,Away
-3,2018-03-24,2018,Lyn,Røa,Away,2,Away
-4,2018-03-24,2018,Vålerenga,LSK Kvinner,Home,0,Away
-4,2018-03-24,2018,LSK Kvinner,Vålerenga,Away,5,Away
-6,2018-03-28,2018,Arna-Bjørnar,Grand Bodø,Home,5,Home
-6,2018-03-28,2018,Grand Bodø,Arna-Bjørnar,Away,0,Home
-7,2018-03-29,2018,LSK Kvinner,Sandviken,Home,6,Home
-7,2018-03-29,2018,Sandviken,LSK Kvinner,Away,0,Home
-8,2018-03-31,2018,Trondheims-Ørn,Stabæk,Home,1,Home
-8,2018-03-31,2018,Stabæk,Trondheims-Ørn,Away,0,Home
-10,2018-04-14,2018,Klepp,Lyn,Home,3,Home
-10,2018-04-14,2018,Lyn,Klepp,Away,2,Home
-11,2018-04-14,2018,Røa,LSK Kvinner,Home,2,Away
-11,2018-04-14,2018,LSK Kvinner,Røa,Away,5,Away
-12,2018-04-14,2018,Stabæk,Arna-Bjørnar,Home,2,Draw
-12,2018-04-14,2018,Arna-Bjørnar,Stabæk,Away,2,Draw
-13,2018-04-15,2018,Sandviken,Trondheims-Ørn,Home,3,Home
-13,2018-04-15,2018,Trondheims-Ørn,Sandviken,Away,1,Home
-14,2018-04-15,2018,Grand Bodø,Avaldsnes,Home,0,Away
-14,2018-04-15,2018,Avaldsnes,Grand Bodø,Away,1,Away
-15,2018-04-15,2018,Vålerenga,Kolbotn,Home,2,Away
-15,2018-04-15,2018,Kolbotn,Vålerenga,Away,3,Away
-17,2018-04-21,2018,Trondheims-Ørn,Røa,Home,1,Home
-17,2018-04-21,2018,Røa,Trondheims-Ørn,Away,0,Home
-18,2018-04-21,2018,LSK Kvinner,Stabæk,Home,1,Home
-18,2018-04-21,2018,Stabæk,LSK Kvinner,Away,0,Home
-19,2018-04-21,2018,Arna-Bjørnar,Sandviken,Home,1,Away
-19,2018-04-21,2018,Sandviken,Arna-Bjørnar,Away,2,Away
-20,2018-04-22,2018,Klepp,Grand Bodø,Home,6,Home
-20,2018-04-22,2018,Grand Bodø,Klepp,Away,0,Home
-21,2018-04-22,2018,Avaldsnes,Vålerenga,Home,0,Away
-21,2018-04-22,2018,Vålerenga,Avaldsnes,Away,3,Away
-23,2018-04-28,2018,Vålerenga,Stabæk,Home,5,Home
-23,2018-04-28,2018,Stabæk,Vålerenga,Away,0,Home
-24,2018-04-28,2018,Sandviken,Avaldsnes,Home,1,Home
-24,2018-04-28,2018,Avaldsnes,Sandviken,Away,0,Home
-25,2018-04-28,2018,Lyn,Arna-Bjørnar,Home,2,Home
-25,2018-04-28,2018,Arna-Bjørnar,Lyn,Away,1,Home
-26,2018-04-29,2018,Kolbotn,LSK Kvinner,Home,0,Away
-26,2018-04-29,2018,LSK Kvinner,Kolbotn,Away,5,Away
-27,2018-04-29,2018,Trondheims-Ørn,Klepp,Home,0,Away
-27,2018-04-29,2018,Klepp,Trondheims-Ørn,Away,1,Away
-28,2018-04-29,2018,Røa,Grand Bodø,Home,4,Home
-28,2018-04-29,2018,Grand Bodø,Røa,Away,1,Home
-30,2018-05-01,2018,Stabæk,Avaldsnes,Home,4,Home
-30,2018-05-01,2018,Avaldsnes,Stabæk,Away,2,Home
-32,2018-05-02,2018,Lyn,Vålerenga,Home,1,Draw
-32,2018-05-02,2018,Vålerenga,Lyn,Away,1,Draw
-34,2018-05-05,2018,Klepp,Vålerenga,Home,3,Home
-34,2018-05-05,2018,Vålerenga,Klepp,Away,0,Home
-35,2018-05-05,2018,LSK Kvinner,Trondheims-Ørn,Home,5,Home
-35,2018-05-05,2018,Trondheims-Ørn,LSK Kvinner,Away,0,Home
-36,2018-05-05,2018,Avaldsnes,Lyn,Home,3,Home
-36,2018-05-05,2018,Lyn,Avaldsnes,Away,0,Home
-37,2018-05-05,2018,Arna-Bjørnar,Kolbotn,Home,1,Draw
-37,2018-05-05,2018,Kolbotn,Arna-Bjørnar,Away,1,Draw
-38,2018-05-06,2018,Grand Bodø,Sandviken,Home,1,Away
-38,2018-05-06,2018,Sandviken,Grand Bodø,Away,3,Away
-39,2018-05-06,2018,Stabæk,Røa,Home,1,Away
-39,2018-05-06,2018,Røa,Stabæk,Away,3,Away
-41,2018-05-12,2018,Røa,Avaldsnes,Home,2,Home
-41,2018-05-12,2018,Avaldsnes,Røa,Away,0,Home
-42,2018-05-12,2018,Sandviken,Klepp,Home,1,Home
-42,2018-05-12,2018,Klepp,Sandviken,Away,0,Home
-43,2018-05-12,2018,Lyn,LSK Kvinner,Home,3,Away
-43,2018-05-12,2018,LSK Kvinner,Lyn,Away,4,Away
-44,2018-05-12,2018,Kolbotn,Stabæk,Home,1,Draw
-44,2018-05-12,2018,Stabæk,Kolbotn,Away,1,Draw
-45,2018-05-13,2018,Trondheims-Ørn,Arna-Bjørnar,Home,2,Away
-45,2018-05-13,2018,Arna-Bjørnar,Trondheims-Ørn,Away,6,Away
-46,2018-05-13,2018,Vålerenga,Grand Bodø,Home,3,Home
-46,2018-05-13,2018,Grand Bodø,Vålerenga,Away,2,Home
-48,2018-05-19,2018,Sandviken,Vålerenga,Home,3,Home
-48,2018-05-19,2018,Vålerenga,Sandviken,Away,0,Home
-49,2018-05-19,2018,Avaldsnes,Trondheims-Ørn,Home,2,Home
-49,2018-05-19,2018,Trondheims-Ørn,Avaldsnes,Away,0,Home
-50,2018-05-19,2018,Klepp,Røa,Home,2,Home
-50,2018-05-19,2018,Røa,Klepp,Away,1,Home
-51,2018-05-19,2018,Arna-Bjørnar,LSK Kvinner,Home,0,Away
-51,2018-05-19,2018,LSK Kvinner,Arna-Bjørnar,Away,1,Away
-52,2018-05-19,2018,Stabæk,Lyn,Home,5,Home
-52,2018-05-19,2018,Lyn,Stabæk,Away,0,Home
-53,2018-05-20,2018,Grand Bodø,Kolbotn,Home,1,Away
-53,2018-05-20,2018,Kolbotn,Grand Bodø,Away,2,Away
-55,2018-05-26,2018,Røa,Arna-Bjørnar,Home,2,Draw
-55,2018-05-26,2018,Arna-Bjørnar,Røa,Away,2,Draw
-56,2018-05-26,2018,Kolbotn,Klepp,Home,3,Home
-56,2018-05-26,2018,Klepp,Kolbotn,Away,1,Home
-57,2018-05-26,2018,Stabæk,Sandviken,Home,0,Away
-57,2018-05-26,2018,Sandviken,Stabæk,Away,1,Away
-58,2018-05-27,2018,Lyn,Grand Bodø,Home,2,Home
-58,2018-05-27,2018,Grand Bodø,Lyn,Away,1,Home
-59,2018-05-27,2018,Vålerenga,Trondheims-Ørn,Home,0,Away
-59,2018-05-27,2018,Trondheims-Ørn,Vålerenga,Away,1,Away
-60,2018-05-27,2018,LSK Kvinner,Avaldsnes,Home,4,Home
-60,2018-05-27,2018,Avaldsnes,LSK Kvinner,Away,0,Home
-62,2018-06-04,2018,Avaldsnes,Klepp,Home,1,Away
-62,2018-06-04,2018,Klepp,Avaldsnes,Away,2,Away
-64,2018-06-16,2018,Sandviken,Lyn,Home,6,Home
-64,2018-06-16,2018,Lyn,Sandviken,Away,0,Home
-65,2018-06-16,2018,Trondheims-Ørn,Kolbotn,Home,2,Draw
-65,2018-06-16,2018,Kolbotn,Trondheims-Ørn,Away,2,Draw
-66,2018-06-16,2018,Avaldsnes,Arna-Bjørnar,Home,1,Home
-66,2018-06-16,2018,Arna-Bjørnar,Avaldsnes,Away,0,Home
-67,2018-06-16,2018,Vålerenga,Røa,Home,2,Home
-67,2018-06-16,2018,Røa,Vålerenga,Away,1,Home
-68,2018-06-16,2018,Grand Bodø,Stabæk,Home,0,Away
-68,2018-06-16,2018,Stabæk,Grand Bodø,Away,3,Away
-69,2018-06-16,2018,Klepp,LSK Kvinner,Home,0,Away
-69,2018-06-16,2018,LSK Kvinner,Klepp,Away,2,Away
-71,2018-06-23,2018,Kolbotn,Avaldsnes,Home,2,Home
-71,2018-06-23,2018,Avaldsnes,Kolbotn,Away,0,Home
-72,2018-06-23,2018,Røa,Sandviken,Home,3,Home
-72,2018-06-23,2018,Sandviken,Røa,Away,2,Home
-73,2018-06-23,2018,Stabæk,Klepp,Home,0,Away
-73,2018-06-23,2018,Klepp,Stabæk,Away,1,Away
-74,2018-06-23,2018,Lyn,Trondheims-Ørn,Home,2,Away
-74,2018-06-23,2018,Trondheims-Ørn,Lyn,Away,3,Away
-75,2018-06-23,2018,Arna-Bjørnar,Vålerenga,Home,3,Home
-75,2018-06-23,2018,Vålerenga,Arna-Bjørnar,Away,2,Home
-76,2018-06-24,2018,LSK Kvinner,Grand Bodø,Home,2,Home
-76,2018-06-24,2018,Grand Bodø,LSK Kvinner,Away,0,Home
-78,2018-06-27,2018,Kolbotn,Røa,Home,0,Away
-78,2018-06-27,2018,Røa,Kolbotn,Away,2,Away
-80,2018-06-30,2018,Trondheims-Ørn,LSK Kvinner,Home,2,Away
-80,2018-06-30,2018,LSK Kvinner,Trondheims-Ørn,Away,3,Away
-81,2018-06-30,2018,Sandviken,Stabæk,Home,1,Away
-81,2018-06-30,2018,Stabæk,Sandviken,Away,3,Away
-82,2018-06-30,2018,Klepp,Kolbotn,Home,2,Home
-82,2018-06-30,2018,Kolbotn,Klepp,Away,1,Home
-83,2018-06-30,2018,Grand Bodø,Arna-Bjørnar,Home,0,Away
-83,2018-06-30,2018,Arna-Bjørnar,Grand Bodø,Away,4,Away
-84,2018-07-01,2018,Avaldsnes,Røa,Home,2,Draw
-84,2018-07-01,2018,Røa,Avaldsnes,Away,2,Draw
-85,2018-07-01,2018,Vålerenga,Lyn,Home,6,Home
-85,2018-07-01,2018,Lyn,Vålerenga,Away,1,Home
-87,2018-07-04,2018,Arna-Bjørnar,Avaldsnes,Home,4,Home
-87,2018-07-04,2018,Avaldsnes,Arna-Bjørnar,Away,1,Home
-89,2018-08-03,2018,Lyn,Avaldsnes,Home,2,Draw
-89,2018-08-03,2018,Avaldsnes,Lyn,Away,2,Draw
-90,2018-08-04,2018,Røa,Klepp,Home,0,Away
-90,2018-08-04,2018,Klepp,Røa,Away,1,Away
-91,2018-08-04,2018,Kolbotn,Sandviken,Home,1,Draw
-91,2018-08-04,2018,Sandviken,Kolbotn,Away,1,Draw
-92,2018-08-04,2018,LSK Kvinner,Vålerenga,Home,2,Home
-92,2018-08-04,2018,Vålerenga,LSK Kvinner,Away,0,Home
-93,2018-08-04,2018,Stabæk,Grand Bodø,Home,2,Home
-93,2018-08-04,2018,Grand Bodø,Stabæk,Away,0,Home
-94,2018-08-05,2018,Arna-Bjørnar,Trondheims-Ørn,Home,6,Home
-94,2018-08-05,2018,Trondheims-Ørn,Arna-Bjørnar,Away,1,Home
-96,2018-08-11,2018,Vålerenga,Sandviken,Home,1,Home
-96,2018-08-11,2018,Sandviken,Vålerenga,Away,0,Home
-97,2018-08-11,2018,Klepp,Stabæk,Home,2,Home
-97,2018-08-11,2018,Stabæk,Klepp,Away,0,Home
-98,2018-08-11,2018,Røa,Kolbotn,Home,1,Away
-98,2018-08-11,2018,Kolbotn,Røa,Away,2,Away
-99,2018-08-11,2018,Trondheims-Ørn,Lyn,Home,1,Draw
-99,2018-08-11,2018,Lyn,Trondheims-Ørn,Away,1,Draw
-100,2018-08-12,2018,Grand Bodø,LSK Kvinner,Home,0,Away
-100,2018-08-12,2018,LSK Kvinner,Grand Bodø,Away,3,Away
-102,2018-08-15,2018,Kolbotn,Lyn,Home,1,Home
-102,2018-08-15,2018,Lyn,Kolbotn,Away,0,Home
-104,2018-08-18,2018,Stabæk,Vålerenga,Home,0,Away
-104,2018-08-18,2018,Vålerenga,Stabæk,Away,1,Away
-105,2018-08-18,2018,Sandviken,Røa,Home,5,Home
-105,2018-08-18,2018,Røa,Sandviken,Away,3,Home
-106,2018-08-18,2018,Lyn,Klepp,Home,0,Away
-106,2018-08-18,2018,Klepp,Lyn,Away,1,Away
-107,2018-08-18,2018,Kolbotn,Trondheims-Ørn,Home,3,Draw
-107,2018-08-18,2018,Trondheims-Ørn,Kolbotn,Away,3,Draw
-108,2018-08-18,2018,LSK Kvinner,Arna-Bjørnar,Home,2,Home
-108,2018-08-18,2018,Arna-Bjørnar,LSK Kvinner,Away,0,Home
-109,2018-08-19,2018,Avaldsnes,Grand Bodø,Home,3,Draw
-109,2018-08-19,2018,Grand Bodø,Avaldsnes,Away,3,Draw
-111,2018-08-25,2018,Arna-Bjørnar,Lyn,Home,2,Home
-111,2018-08-25,2018,Lyn,Arna-Bjørnar,Away,1,Home
-112,2018-08-25,2018,Røa,Stabæk,Home,2,Home
-112,2018-08-25,2018,Stabæk,Røa,Away,0,Home
-113,2018-08-25,2018,Trondheims-Ørn,Avaldsnes,Home,1,Draw
-113,2018-08-25,2018,Avaldsnes,Trondheims-Ørn,Away,1,Draw
-114,2018-08-26,2018,LSK Kvinner,Kolbotn,Home,5,Home
-114,2018-08-26,2018,Kolbotn,LSK Kvinner,Away,1,Home
-115,2018-08-26,2018,Grand Bodø,Vålerenga,Home,1,Away
-115,2018-08-26,2018,Vålerenga,Grand Bodø,Away,2,Away
-116,2018-08-26,2018,Klepp,Sandviken,Home,1,Draw
-116,2018-08-26,2018,Sandviken,Klepp,Away,1,Draw
-118,2018-09-08,2018,Avaldsnes,LSK Kvinner,Home,1,Away
-118,2018-09-08,2018,LSK Kvinner,Avaldsnes,Away,4,Away
-119,2018-09-08,2018,Stabæk,Trondheims-Ørn,Home,2,Home
-119,2018-09-08,2018,Trondheims-Ørn,Stabæk,Away,0,Home
-120,2018-09-08,2018,Kolbotn,Arna-Bjørnar,Home,1,Away
-120,2018-09-08,2018,Arna-Bjørnar,Kolbotn,Away,4,Away
-121,2018-09-08,2018,Lyn,Røa,Home,3,Away
-121,2018-09-08,2018,Røa,Lyn,Away,4,Away
-122,2018-09-09,2018,Sandviken,Grand Bodø,Home,4,Home
-122,2018-09-09,2018,Grand Bodø,Sandviken,Away,1,Home
-123,2018-09-09,2018,Vålerenga,Klepp,Home,1,Draw
-123,2018-09-09,2018,Klepp,Vålerenga,Away,1,Draw
-125,2018-09-15,2018,Arna-Bjørnar,Stabæk,Home,6,Home
-125,2018-09-15,2018,Stabæk,Arna-Bjørnar,Away,2,Home
-126,2018-09-15,2018,Røa,Vålerenga,Home,2,Home
-126,2018-09-15,2018,Vålerenga,Røa,Away,1,Home
-127,2018-09-16,2018,Avaldsnes,Kolbotn,Home,0,Draw
-127,2018-09-16,2018,Kolbotn,Avaldsnes,Away,0,Draw
-128,2018-09-16,2018,Grand Bodø,Klepp,Home,3,Away
-128,2018-09-16,2018,Klepp,Grand Bodø,Away,5,Away
-129,2018-09-16,2018,Trondheims-Ørn,Sandviken,Home,3,Draw
-129,2018-09-16,2018,Sandviken,Trondheims-Ørn,Away,3,Draw
-130,2018-09-16,2018,LSK Kvinner,Lyn,Home,2,Home
-130,2018-09-16,2018,Lyn,LSK Kvinner,Away,1,Home
-132,2018-09-21,2018,Stabæk,LSK Kvinner,Home,0,Away
-132,2018-09-21,2018,LSK Kvinner,Stabæk,Away,2,Away
-133,2018-09-22,2018,Sandviken,Arna-Bjørnar,Home,1,Draw
-133,2018-09-22,2018,Arna-Bjørnar,Sandviken,Away,1,Draw
-134,2018-09-22,2018,Lyn,Kolbotn,Home,0,Away
-134,2018-09-22,2018,Kolbotn,Lyn,Away,1,Away
-135,2018-09-23,2018,Grand Bodø,Røa,Home,1,Away
-135,2018-09-23,2018,Røa,Grand Bodø,Away,3,Away
-136,2018-09-26,2018,Klepp,Trondheims-Ørn,Home,1,Home
-136,2018-09-26,2018,Trondheims-Ørn,Klepp,Away,0,Home
-137,2018-10-13,2018,Vålerenga,Avaldsnes,Home,2,Home
-137,2018-10-13,2018,Avaldsnes,Vålerenga,Away,1,Home
-139,2018-10-20,2018,Avaldsnes,Sandviken,Home,0,Draw
-139,2018-10-20,2018,Sandviken,Avaldsnes,Away,0,Draw
-140,2018-10-20,2018,Trondheims-Ørn,Vålerenga,Home,1,Away
-140,2018-10-20,2018,Vålerenga,Trondheims-Ørn,Away,3,Away
-141,2018-10-20,2018,Lyn,Stabæk,Home,2,Away
-141,2018-10-20,2018,Stabæk,Lyn,Away,3,Away
-142,2018-10-20,2018,Arna-Bjørnar,Røa,Home,2,Home
-142,2018-10-20,2018,Røa,Arna-Bjørnar,Away,0,Home
-143,2018-10-21,2018,LSK Kvinner,Klepp,Home,2,Away
-143,2018-10-21,2018,Klepp,LSK Kvinner,Away,3,Away
-144,2018-10-21,2018,Kolbotn,Grand Bodø,Home,3,Home
-144,2018-10-21,2018,Grand Bodø,Kolbotn,Away,2,Home
-146,2018-10-27,2018,Klepp,Avaldsnes,Home,2,Home
-146,2018-10-27,2018,Avaldsnes,Klepp,Away,1,Home
-147,2018-10-27,2018,Stabæk,Kolbotn,Home,1,Away
-147,2018-10-27,2018,Kolbotn,Stabæk,Away,2,Away
-148,2018-10-27,2018,Røa,Trondheims-Ørn,Home,2,Home
-148,2018-10-27,2018,Trondheims-Ørn,Røa,Away,1,Home
-149,2018-10-27,2018,Grand Bodø,Lyn,Home,1,Home
-149,2018-10-27,2018,Lyn,Grand Bodø,Away,0,Home
-150,2018-10-27,2018,Vålerenga,Arna-Bjørnar,Home,1,Draw
-150,2018-10-27,2018,Arna-Bjørnar,Vålerenga,Away,1,Draw
-151,2018-10-27,2018,Sandviken,LSK Kvinner,Home,0,Draw
-151,2018-10-27,2018,LSK Kvinner,Sandviken,Away,0,Draw
-153,2018-11-04,2018,Trondheims-Ørn,Grand Bodø,Home,0,Draw
-153,2018-11-04,2018,Grand Bodø,Trondheims-Ørn,Away,0,Draw
-154,2018-11-04,2018,Kolbotn,Vålerenga,Home,3,Home
-154,2018-11-04,2018,Vålerenga,Kolbotn,Away,1,Home
-155,2018-11-04,2018,LSK Kvinner,Røa,Home,6,Home
-155,2018-11-04,2018,Røa,LSK Kvinner,Away,2,Home
-156,2018-11-04,2018,Lyn,Sandviken,Home,2,Away
-156,2018-11-04,2018,Sandviken,Lyn,Away,4,Away
-157,2018-11-04,2018,Avaldsnes,Stabæk,Home,2,Home
-157,2018-11-04,2018,Stabæk,Avaldsnes,Away,0,Home
-158,2018-11-04,2018,Arna-Bjørnar,Klepp,Home,0,Draw
-158,2018-11-04,2018,Klepp,Arna-Bjørnar,Away,0,Draw
-0,2019-03-23,2019,LSK Kvinner,Kolbotn,Home,4,Home
-0,2019-03-23,2019,Kolbotn,LSK Kvinner,Away,3,Home
-1,2019-03-23,2019,Sandviken,Røa,Home,0,Away
-1,2019-03-23,2019,Røa,Sandviken,Away,2,Away
-2,2019-03-23,2019,Klepp,Avaldsnes,Home,1,Home
-2,2019-03-23,2019,Avaldsnes,Klepp,Away,0,Home
-3,2019-03-23,2019,Lyn,Fart,Home,0,Draw
-3,2019-03-23,2019,Fart,Lyn,Away,0,Draw
-4,2019-03-24,2019,Trondheims-Ørn,Arna-Bjørnar,Home,0,Draw
-4,2019-03-24,2019,Arna-Bjørnar,Trondheims-Ørn,Away,0,Draw
-5,2019-03-24,2019,Vålerenga,Stabæk,Home,1,Home
-5,2019-03-24,2019,Stabæk,Vålerenga,Away,0,Home
-7,2019-03-30,2019,Arna-Bjørnar,Lyn,Home,1,Draw
-7,2019-03-30,2019,Lyn,Arna-Bjørnar,Away,1,Draw
-8,2019-03-30,2019,Avaldsnes,LSK Kvinner,Home,1,Draw
-8,2019-03-30,2019,LSK Kvinner,Avaldsnes,Away,1,Draw
-9,2019-03-30,2019,Røa,Trondheims-Ørn,Home,2,Home
-9,2019-03-30,2019,Trondheims-Ørn,Røa,Away,1,Home
-10,2019-03-30,2019,Stabæk,Klepp,Home,0,Away
-10,2019-03-30,2019,Klepp,Stabæk,Away,2,Away
-11,2019-03-30,2019,Fart,Sandviken,Home,0,Away
-11,2019-03-30,2019,Sandviken,Fart,Away,3,Away
-12,2019-03-30,2019,Kolbotn,Vålerenga,Home,1,Away
-12,2019-03-30,2019,Vålerenga,Kolbotn,Away,2,Away
-14,2019-04-13,2019,Klepp,Røa,Home,1,Home
-14,2019-04-13,2019,Røa,Klepp,Away,0,Home
-15,2019-04-13,2019,Lyn,Kolbotn,Home,0,Draw
-15,2019-04-13,2019,Kolbotn,Lyn,Away,0,Draw
-16,2019-04-13,2019,Sandviken,Stabæk,Home,3,Home
-16,2019-04-13,2019,Stabæk,Sandviken,Away,0,Home
-17,2019-04-13,2019,Vålerenga,Fart,Home,4,Home
-17,2019-04-13,2019,Fart,Vålerenga,Away,0,Home
-18,2019-04-13,2019,LSK Kvinner,Arna-Bjørnar,Home,3,Home
-18,2019-04-13,2019,Arna-Bjørnar,LSK Kvinner,Away,1,Home
-19,2019-04-14,2019,Trondheims-Ørn,Avaldsnes,Home,1,Draw
-19,2019-04-14,2019,Avaldsnes,Trondheims-Ørn,Away,1,Draw
-21,2019-04-17,2019,Lyn,LSK Kvinner,Home,0,Away
-21,2019-04-17,2019,LSK Kvinner,Lyn,Away,2,Away
-23,2019-04-22,2019,Avaldsnes,Vålerenga,Home,2,Draw
-23,2019-04-22,2019,Vålerenga,Avaldsnes,Away,2,Draw
-24,2019-04-22,2019,Arna-Bjørnar,Klepp,Home,1,Home
-24,2019-04-22,2019,Klepp,Arna-Bjørnar,Away,0,Home
-25,2019-04-22,2019,Kolbotn,Sandviken,Home,3,Home
-25,2019-04-22,2019,Sandviken,Kolbotn,Away,2,Home
-26,2019-04-22,2019,Fart,LSK Kvinner,Home,0,Away
-26,2019-04-22,2019,LSK Kvinner,Fart,Away,4,Away
-27,2019-04-22,2019,Stabæk,Trondheims-Ørn,Home,1,Draw
-27,2019-04-22,2019,Trondheims-Ørn,Stabæk,Away,1,Draw
-28,2019-04-22,2019,Røa,Lyn,Home,2,Away
-28,2019-04-22,2019,Lyn,Røa,Away,3,Away
-30,2019-04-27,2019,Lyn,Stabæk,Home,2,Home
-30,2019-04-27,2019,Stabæk,Lyn,Away,0,Home
-31,2019-04-27,2019,Fart,Kolbotn,Home,2,Away
-31,2019-04-27,2019,Kolbotn,Fart,Away,3,Away
-32,2019-04-27,2019,LSK Kvinner,Røa,Home,1,Draw
-32,2019-04-27,2019,Røa,LSK Kvinner,Away,1,Draw
-33,2019-04-27,2019,Sandviken,Avaldsnes,Home,6,Home
-33,2019-04-27,2019,Avaldsnes,Sandviken,Away,4,Home
-34,2019-04-28,2019,Trondheims-Ørn,Klepp,Home,0,Away
-34,2019-04-28,2019,Klepp,Trondheims-Ørn,Away,1,Away
-35,2019-04-28,2019,Vålerenga,Arna-Bjørnar,Home,1,Home
-35,2019-04-28,2019,Arna-Bjørnar,Vålerenga,Away,0,Home
-37,2019-05-01,2019,Trondheims-Ørn,Vålerenga,Home,0,Away
-37,2019-05-01,2019,Vålerenga,Trondheims-Ørn,Away,1,Away
-38,2019-05-01,2019,Avaldsnes,Fart,Home,3,Draw
-38,2019-05-01,2019,Fart,Avaldsnes,Away,3,Draw
-39,2019-05-01,2019,LSK Kvinner,Stabæk,Home,4,Home
-39,2019-05-01,2019,Stabæk,LSK Kvinner,Away,0,Home
-40,2019-05-01,2019,Arna-Bjørnar,Sandviken,Home,1,Away
-40,2019-05-01,2019,Sandviken,Arna-Bjørnar,Away,2,Away
-41,2019-05-01,2019,Røa,Kolbotn,Home,1,Away
-41,2019-05-01,2019,Kolbotn,Røa,Away,2,Away
-42,2019-05-01,2019,Klepp,Lyn,Home,1,Home
-42,2019-05-01,2019,Lyn,Klepp,Away,0,Home
-44,2019-05-04,2019,Kolbotn,Avaldsnes,Home,3,Home
-44,2019-05-04,2019,Avaldsnes,Kolbotn,Away,1,Home
-45,2019-05-04,2019,Stabæk,Røa,Home,0,Away
-45,2019-05-04,2019,Røa,Stabæk,Away,2,Away
-46,2019-05-05,2019,Fart,Arna-Bjørnar,Home,1,Away
-46,2019-05-05,2019,Arna-Bjørnar,Fart,Away,3,Away
-47,2019-05-05,2019,Sandviken,Klepp,Home,2,Home
-47,2019-05-05,2019,Klepp,Sandviken,Away,1,Home
-48,2019-05-05,2019,Lyn,Trondheims-Ørn,Home,0,Away
-48,2019-05-05,2019,Trondheims-Ørn,Lyn,Away,3,Away
-49,2019-05-05,2019,Vålerenga,LSK Kvinner,Home,1,Away
-49,2019-05-05,2019,LSK Kvinner,Vålerenga,Away,2,Away
-51,2019-05-11,2019,LSK Kvinner,Lyn,Home,6,Home
-51,2019-05-11,2019,Lyn,LSK Kvinner,Away,0,Home
-52,2019-05-11,2019,Klepp,Vålerenga,Home,5,Home
-52,2019-05-11,2019,Vålerenga,Klepp,Away,0,Home
-53,2019-05-11,2019,Avaldsnes,Stabæk,Home,4,Home
-53,2019-05-11,2019,Stabæk,Avaldsnes,Away,0,Home
-54,2019-05-11,2019,Røa,Fart,Home,5,Home
-54,2019-05-11,2019,Fart,Røa,Away,0,Home
-55,2019-05-11,2019,Trondheims-Ørn,Sandviken,Home,0,Away
-55,2019-05-11,2019,Sandviken,Trondheims-Ørn,Away,1,Away
-56,2019-05-12,2019,Arna-Bjørnar,Kolbotn,Home,1,Away
-56,2019-05-12,2019,Kolbotn,Arna-Bjørnar,Away,3,Away
-58,2019-05-18,2019,Fart,Trondheims-Ørn,Home,0,Away
-58,2019-05-18,2019,Trondheims-Ørn,Fart,Away,2,Away
-59,2019-05-18,2019,Stabæk,Arna-Bjørnar,Home,0,Away
-59,2019-05-18,2019,Arna-Bjørnar,Stabæk,Away,1,Away
-60,2019-05-18,2019,Vålerenga,Lyn,Home,0,Away
-60,2019-05-18,2019,Lyn,Vålerenga,Away,1,Away
-61,2019-05-19,2019,Kolbotn,Klepp,Home,0,Draw
-61,2019-05-19,2019,Klepp,Kolbotn,Away,0,Draw
-62,2019-05-19,2019,Sandviken,LSK Kvinner,Home,1,Away
-62,2019-05-19,2019,LSK Kvinner,Sandviken,Away,3,Away
-63,2019-05-19,2019,Røa,Avaldsnes,Home,2,Draw
-63,2019-05-19,2019,Avaldsnes,Røa,Away,2,Draw
-65,2019-07-27,2019,Vålerenga,Sandviken,Home,1,Draw
-65,2019-07-27,2019,Sandviken,Vålerenga,Away,1,Draw
-67,2019-08-03,2019,Avaldsnes,Arna-Bjørnar,Home,2,Home
-67,2019-08-03,2019,Arna-Bjørnar,Avaldsnes,Away,1,Home
-68,2019-08-03,2019,Kolbotn,Trondheims-Ørn,Home,1,Away
-68,2019-08-03,2019,Trondheims-Ørn,Kolbotn,Away,2,Away
-69,2019-08-03,2019,Fart,Stabæk,Home,1,Home
-69,2019-08-03,2019,Stabæk,Fart,Away,0,Home
-70,2019-08-03,2019,LSK Kvinner,Klepp,Home,0,Away
-70,2019-08-03,2019,Klepp,LSK Kvinner,Away,1,Away
-71,2019-08-04,2019,Røa,Vålerenga,Home,2,Away
-71,2019-08-04,2019,Vålerenga,Røa,Away,6,Away
-72,2019-08-04,2019,Sandviken,Lyn,Home,2,Home
-72,2019-08-04,2019,Lyn,Sandviken,Away,1,Home
-74,2019-08-10,2019,Vålerenga,Kolbotn,Home,1,Home
-74,2019-08-10,2019,Kolbotn,Vålerenga,Away,0,Home
-75,2019-08-10,2019,Stabæk,Avaldsnes,Home,0,Draw
-75,2019-08-10,2019,Avaldsnes,Stabæk,Away,0,Draw
-76,2019-08-10,2019,Arna-Bjørnar,Fart,Home,3,Home
-76,2019-08-10,2019,Fart,Arna-Bjørnar,Away,1,Home
-77,2019-08-10,2019,Trondheims-Ørn,Røa,Home,0,Away
-77,2019-08-10,2019,Røa,Trondheims-Ørn,Away,1,Away
-78,2019-08-11,2019,Klepp,Sandviken,Home,2,Away
-78,2019-08-11,2019,Sandviken,Klepp,Away,3,Away
-80,2019-08-17,2019,LSK Kvinner,Vålerenga,Home,2,Home
-80,2019-08-17,2019,Vålerenga,LSK Kvinner,Away,0,Home
-81,2019-08-17,2019,Kolbotn,Arna-Bjørnar,Home,0,Away
-81,2019-08-17,2019,Arna-Bjørnar,Kolbotn,Away,2,Away
-82,2019-08-17,2019,Fart,Lyn,Home,2,Draw
-82,2019-08-17,2019,Lyn,Fart,Away,2,Draw
-83,2019-08-17,2019,Avaldsnes,Klepp,Home,1,Away
-83,2019-08-17,2019,Klepp,Avaldsnes,Away,3,Away
-84,2019-08-17,2019,Røa,Stabæk,Home,2,Home
-84,2019-08-17,2019,Stabæk,Røa,Away,1,Home
-85,2019-08-18,2019,Sandviken,Trondheims-Ørn,Home,1,Home
-85,2019-08-18,2019,Trondheims-Ørn,Sandviken,Away,0,Home
-87,2019-08-24,2019,Klepp,Kolbotn,Home,3,Home
-87,2019-08-24,2019,Kolbotn,Klepp,Away,0,Home
-88,2019-08-24,2019,Trondheims-Ørn,Fart,Home,3,Home
-88,2019-08-24,2019,Fart,Trondheims-Ørn,Away,0,Home
-89,2019-08-24,2019,Avaldsnes,Røa,Home,1,Home
-89,2019-08-24,2019,Røa,Avaldsnes,Away,0,Home
-90,2019-08-24,2019,Stabæk,Sandviken,Home,0,Away
-90,2019-08-24,2019,Sandviken,Stabæk,Away,2,Away
-91,2019-08-25,2019,Lyn,Vålerenga,Home,1,Away
-91,2019-08-25,2019,Vålerenga,Lyn,Away,2,Away
-92,2019-08-25,2019,Arna-Bjørnar,LSK Kvinner,Home,1,Away
-92,2019-08-25,2019,LSK Kvinner,Arna-Bjørnar,Away,3,Away
-94,2019-09-07,2019,LSK Kvinner,Trondheims-Ørn,Home,2,Home
-94,2019-09-07,2019,Trondheims-Ørn,LSK Kvinner,Away,0,Home
-95,2019-09-07,2019,Vålerenga,Klepp,Home,4,Home
-95,2019-09-07,2019,Klepp,Vålerenga,Away,0,Home
-96,2019-09-07,2019,Fart,Avaldsnes,Home,0,Away
-96,2019-09-07,2019,Avaldsnes,Fart,Away,3,Away
-97,2019-09-07,2019,Arna-Bjørnar,Stabæk,Home,2,Draw
-97,2019-09-07,2019,Stabæk,Arna-Bjørnar,Away,2,Draw
-98,2019-09-07,2019,Lyn,Sandviken,Home,1,Draw
-98,2019-09-07,2019,Sandviken,Lyn,Away,1,Draw
-99,2019-09-09,2019,Kolbotn,Røa,Home,4,Draw
-99,2019-09-09,2019,Røa,Kolbotn,Away,4,Draw
-101,2019-09-14,2019,Røa,Arna-Bjørnar,Home,6,Home
-101,2019-09-14,2019,Arna-Bjørnar,Røa,Away,1,Home
-102,2019-09-14,2019,Sandviken,Vålerenga,Home,3,Away
-102,2019-09-14,2019,Vålerenga,Sandviken,Away,4,Away
-103,2019-09-14,2019,Avaldsnes,Kolbotn,Home,2,Home
-103,2019-09-14,2019,Kolbotn,Avaldsnes,Away,1,Home
-104,2019-09-14,2019,Stabæk,Fart,Home,3,Home
-104,2019-09-14,2019,Fart,Stabæk,Away,0,Home
-105,2019-09-14,2019,Trondheims-Ørn,Lyn,Home,1,Draw
-105,2019-09-14,2019,Lyn,Trondheims-Ørn,Away,1,Draw
-106,2019-09-15,2019,Klepp,LSK Kvinner,Home,1,Draw
-106,2019-09-15,2019,LSK Kvinner,Klepp,Away,1,Draw
-108,2019-09-18,2019,Lyn,Avaldsnes,Home,2,Away
-108,2019-09-18,2019,Avaldsnes,Lyn,Away,3,Away
-109,2019-09-18,2019,Trondheims-Ørn,LSK Kvinner,Home,0,Away
-109,2019-09-18,2019,LSK Kvinner,Trondheims-Ørn,Away,3,Away
-110,2019-09-18,2019,Stabæk,Kolbotn,Home,2,Home
-110,2019-09-18,2019,Kolbotn,Stabæk,Away,0,Home
-112,2019-09-21,2019,Lyn,Klepp,Home,2,Home
-112,2019-09-21,2019,Klepp,Lyn,Away,1,Home
-113,2019-09-21,2019,Vålerenga,Trondheims-Ørn,Home,3,Home
-113,2019-09-21,2019,Trondheims-Ørn,Vålerenga,Away,1,Home
-114,2019-09-21,2019,Fart,Røa,Home,1,Draw
-114,2019-09-21,2019,Røa,Fart,Away,1,Draw
-115,2019-09-21,2019,Arna-Bjørnar,Avaldsnes,Home,0,Away
-115,2019-09-21,2019,Avaldsnes,Arna-Bjørnar,Away,2,Away
-116,2019-09-21,2019,Kolbotn,Stabæk,Home,3,Home
-116,2019-09-21,2019,Stabæk,Kolbotn,Away,2,Home
-117,2019-09-21,2019,LSK Kvinner,Sandviken,Home,2,Home
-117,2019-09-21,2019,Sandviken,LSK Kvinner,Away,0,Home
-119,2019-09-25,2019,Arna-Bjørnar,Røa,Home,2,Draw
-119,2019-09-25,2019,Røa,Arna-Bjørnar,Away,2,Draw
-120,2019-09-25,2019,Klepp,Fart,Home,4,Home
-120,2019-09-25,2019,Fart,Klepp,Away,0,Home
-122,2019-09-28,2019,Stabæk,Vålerenga,Home,1,Away
-122,2019-09-28,2019,Vålerenga,Stabæk,Away,3,Away
-123,2019-09-28,2019,Avaldsnes,Lyn,Home,3,Home
-123,2019-09-28,2019,Lyn,Avaldsnes,Away,1,Home
-124,2019-09-29,2019,Klepp,Trondheims-Ørn,Home,2,Away
-124,2019-09-29,2019,Trondheims-Ørn,Klepp,Away,3,Away
-125,2019-09-29,2019,Røa,LSK Kvinner,Home,0,Away
-125,2019-09-29,2019,LSK Kvinner,Røa,Away,1,Away
-126,2019-09-29,2019,Sandviken,Arna-Bjørnar,Home,2,Home
-126,2019-09-29,2019,Arna-Bjørnar,Sandviken,Away,0,Home
-128,2019-10-12,2019,Trondheims-Ørn,Kolbotn,Home,4,Home
-128,2019-10-12,2019,Kolbotn,Trondheims-Ørn,Away,0,Home
-129,2019-10-12,2019,LSK Kvinner,Avaldsnes,Home,2,Home
-129,2019-10-12,2019,Avaldsnes,LSK Kvinner,Away,1,Home
-130,2019-10-12,2019,Klepp,Stabæk,Home,5,Home
-130,2019-10-12,2019,Stabæk,Klepp,Away,0,Home
-131,2019-10-12,2019,Vålerenga,Røa,Home,1,Draw
-131,2019-10-12,2019,Røa,Vålerenga,Away,1,Draw
-132,2019-10-12,2019,Sandviken,Fart,Home,2,Home
-132,2019-10-12,2019,Fart,Sandviken,Away,0,Home
-133,2019-10-13,2019,Lyn,Arna-Bjørnar,Home,4,Away
-133,2019-10-13,2019,Arna-Bjørnar,Lyn,Away,5,Away
-135,2019-10-15,2019,Kolbotn,Fart,Home,4,Home
-135,2019-10-15,2019,Fart,Kolbotn,Away,0,Home
-137,2019-10-19,2019,Avaldsnes,Sandviken,Home,3,Home
-137,2019-10-19,2019,Sandviken,Avaldsnes,Away,2,Home
-138,2019-10-19,2019,Stabæk,Lyn,Home,1,Home
-138,2019-10-19,2019,Lyn,Stabæk,Away,0,Home
-139,2019-10-19,2019,Røa,Klepp,Home,1,Away
-139,2019-10-19,2019,Klepp,Røa,Away,4,Away
-140,2019-10-19,2019,Fart,Vålerenga,Home,0,Away
-140,2019-10-19,2019,Vålerenga,Fart,Away,1,Away
-141,2019-10-20,2019,Arna-Bjørnar,Trondheims-Ørn,Home,0,Draw
-141,2019-10-20,2019,Trondheims-Ørn,Arna-Bjørnar,Away,0,Draw
-142,2019-10-20,2019,Kolbotn,LSK Kvinner,Home,2,Draw
-142,2019-10-20,2019,LSK Kvinner,Kolbotn,Away,2,Draw
-144,2019-11-02,2019,Sandviken,Kolbotn,Home,2,Draw
-144,2019-11-02,2019,Kolbotn,Sandviken,Away,2,Draw
-145,2019-11-02,2019,Klepp,Arna-Bjørnar,Home,4,Home
-145,2019-11-02,2019,Arna-Bjørnar,Klepp,Away,0,Home
-146,2019-11-02,2019,Lyn,Røa,Home,1,Draw
-146,2019-11-02,2019,Røa,Lyn,Away,1,Draw
-147,2019-11-02,2019,Trondheims-Ørn,Stabæk,Home,3,Home
-147,2019-11-02,2019,Stabæk,Trondheims-Ørn,Away,1,Home
-148,2019-11-02,2019,LSK Kvinner,Fart,Home,1,Away
-148,2019-11-02,2019,Fart,LSK Kvinner,Away,2,Away
-149,2019-11-02,2019,Vålerenga,Avaldsnes,Home,1,Draw
-149,2019-11-02,2019,Avaldsnes,Vålerenga,Away,1,Draw
-151,2019-11-16,2019,Avaldsnes,Trondheims-Ørn,Home,0,Away
-151,2019-11-16,2019,Trondheims-Ørn,Avaldsnes,Away,1,Away
-152,2019-11-16,2019,Røa,Sandviken,Home,2,Draw
-152,2019-11-16,2019,Sandviken,Røa,Away,2,Draw
-153,2019-11-16,2019,Stabæk,LSK Kvinner,Home,2,Draw
-153,2019-11-16,2019,LSK Kvinner,Stabæk,Away,2,Draw
-154,2019-11-16,2019,Kolbotn,Lyn,Home,0,Draw
-154,2019-11-16,2019,Lyn,Kolbotn,Away,0,Draw
-155,2019-11-16,2019,Arna-Bjørnar,Vålerenga,Home,0,Away
-155,2019-11-16,2019,Vålerenga,Arna-Bjørnar,Away,2,Away
-156,2019-11-16,2019,Fart,Klepp,Home,1,Away
-156,2019-11-16,2019,Klepp,Fart,Away,6,Away
-158,2019-11-24,2019,IF Fløya,Lyn,Home,0,Away
-158,2019-11-24,2019,Lyn,IF Fløya,Away,5,Away
-159,2019-12-01,2019,Lyn,IF Fløya,Home,2,Home
-159,2019-12-01,2019,IF Fløya,Lyn,Away,1,Home
+ID,Date,Season,Team,Opponent,Venue,Goals,Rk_x,G-PK_x,Age_x,W_x,D_x,L_x,GD_x,Pts_x,GF_x,WR_x,Rk_y,G-PK_y,Age_y,W_y,D_y,L_y,GD_y,Pts_y,GF_y,WR_y
+0,2017-04-17,2017,Medkila,Sandviken,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0,2017-04-17,2017,Sandviken,Medkila,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2017-04-17,2017,Avaldsnes,Vålerenga,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2017-04-17,2017,Vålerenga,Avaldsnes,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2017-04-17,2017,Grand Bodø,Arna-Bjørnar,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2017-04-17,2017,Arna-Bjørnar,Grand Bodø,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2017-04-17,2017,Røa,Stabæk,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2017-04-17,2017,Stabæk,Røa,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2017-04-17,2017,LSK Kvinner,Klepp,Home,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2017-04-17,2017,Klepp,LSK Kvinner,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2017-04-17,2017,Trondheims-Ørn,Kolbotn,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2017-04-17,2017,Kolbotn,Trondheims-Ørn,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2017-04-22,2017,Arna-Bjørnar,LSK Kvinner,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2017-04-22,2017,LSK Kvinner,Arna-Bjørnar,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2017-04-22,2017,Vålerenga,Røa,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2017-04-22,2017,Røa,Vålerenga,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2017-04-22,2017,Kolbotn,Avaldsnes,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2017-04-22,2017,Avaldsnes,Kolbotn,Away,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2017-04-23,2017,Stabæk,Medkila,Home,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2017-04-23,2017,Medkila,Stabæk,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2017-04-23,2017,Sandviken,Trondheims-Ørn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2017-04-23,2017,Trondheims-Ørn,Sandviken,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,2017-04-23,2017,Klepp,Grand Bodø,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,2017-04-23,2017,Grand Bodø,Klepp,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2017-04-28,2017,Stabæk,Grand Bodø,Home,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2017-04-28,2017,Grand Bodø,Stabæk,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,2017-04-29,2017,Vålerenga,Arna-Bjørnar,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,2017-04-29,2017,Arna-Bjørnar,Vålerenga,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,2017-04-30,2017,Avaldsnes,Røa,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,2017-04-30,2017,Røa,Avaldsnes,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,2017-05-06,2017,Trondheims-Ørn,Vålerenga,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,2017-05-06,2017,Vålerenga,Trondheims-Ørn,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,2017-05-06,2017,Sandviken,Kolbotn,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,2017-05-06,2017,Kolbotn,Sandviken,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,2017-05-06,2017,Røa,Arna-Bjørnar,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,2017-05-06,2017,Arna-Bjørnar,Røa,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,2017-05-07,2017,Medkila,Klepp,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,2017-05-07,2017,Klepp,Medkila,Away,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,2017-05-07,2017,Avaldsnes,Stabæk,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,2017-05-07,2017,Stabæk,Avaldsnes,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,2017-05-07,2017,LSK Kvinner,Grand Bodø,Home,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,2017-05-07,2017,Grand Bodø,LSK Kvinner,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,2017-05-12,2017,Grand Bodø,Avaldsnes,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,2017-05-12,2017,Avaldsnes,Grand Bodø,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,2017-05-12,2017,Stabæk,Kolbotn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,2017-05-12,2017,Kolbotn,Stabæk,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,2017-05-13,2017,Klepp,Røa,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,2017-05-13,2017,Røa,Klepp,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,2017-05-13,2017,Arna-Bjørnar,Trondheims-Ørn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,2017-05-13,2017,Trondheims-Ørn,Arna-Bjørnar,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,2017-05-13,2017,Vålerenga,Sandviken,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,2017-05-13,2017,Sandviken,Vålerenga,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,2017-05-13,2017,LSK Kvinner,Medkila,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,2017-05-13,2017,Medkila,LSK Kvinner,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,2017-05-16,2017,Trondheims-Ørn,Stabæk,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,2017-05-16,2017,Stabæk,Trondheims-Ørn,Away,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,2017-05-16,2017,Medkila,Grand Bodø,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,2017-05-16,2017,Grand Bodø,Medkila,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,2017-05-16,2017,Røa,LSK Kvinner,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,2017-05-16,2017,LSK Kvinner,Røa,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,2017-05-16,2017,Avaldsnes,Klepp,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,2017-05-16,2017,Klepp,Avaldsnes,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,2017-05-16,2017,Kolbotn,Vålerenga,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,2017-05-16,2017,Vålerenga,Kolbotn,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,2017-05-20,2017,Klepp,Vålerenga,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,2017-05-20,2017,Vålerenga,Klepp,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,2017-05-20,2017,LSK Kvinner,Trondheims-Ørn,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,2017-05-20,2017,Trondheims-Ørn,LSK Kvinner,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,2017-05-20,2017,Stabæk,Sandviken,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,2017-05-20,2017,Sandviken,Stabæk,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,2017-05-21,2017,Grand Bodø,Røa,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,2017-05-21,2017,Røa,Grand Bodø,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,2017-05-22,2017,Medkila,Avaldsnes,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,2017-05-22,2017,Avaldsnes,Medkila,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,2017-05-23,2017,Arna-Bjørnar,Kolbotn,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,2017-05-23,2017,Kolbotn,Arna-Bjørnar,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,2017-05-27,2017,Trondheims-Ørn,Grand Bodø,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,2017-05-27,2017,Grand Bodø,Trondheims-Ørn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,2017-05-27,2017,Avaldsnes,Arna-Bjørnar,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,2017-05-27,2017,Arna-Bjørnar,Avaldsnes,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,2017-05-27,2017,Kolbotn,Klepp,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,2017-05-27,2017,Klepp,Kolbotn,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,2017-05-27,2017,Sandviken,LSK Kvinner,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,2017-05-27,2017,LSK Kvinner,Sandviken,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,2017-05-28,2017,Røa,Medkila,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,2017-05-28,2017,Medkila,Røa,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,2017-06-03,2017,LSK Kvinner,Kolbotn,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,2017-06-03,2017,Kolbotn,LSK Kvinner,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,2017-06-03,2017,Klepp,Trondheims-Ørn,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,2017-06-03,2017,Trondheims-Ørn,Klepp,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,2017-06-03,2017,Arna-Bjørnar,Stabæk,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,2017-06-03,2017,Stabæk,Arna-Bjørnar,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,2017-06-04,2017,Røa,Avaldsnes,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,2017-06-04,2017,Avaldsnes,Røa,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,2017-06-04,2017,Medkila,Vålerenga,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,2017-06-04,2017,Vålerenga,Medkila,Away,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,2017-06-04,2017,Grand Bodø,Sandviken,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,2017-06-04,2017,Sandviken,Grand Bodø,Away,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,2017-06-17,2017,Sandviken,Klepp,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,2017-06-17,2017,Klepp,Sandviken,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,2017-06-17,2017,Kolbotn,Røa,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,2017-06-17,2017,Røa,Kolbotn,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,2017-06-18,2017,Trondheims-Ørn,Medkila,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,2017-06-18,2017,Medkila,Trondheims-Ørn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,2017-06-18,2017,Avaldsnes,LSK Kvinner,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,2017-06-18,2017,LSK Kvinner,Avaldsnes,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,2017-06-24,2017,Røa,Sandviken,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,2017-06-24,2017,Sandviken,Røa,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,2017-06-24,2017,Klepp,Stabæk,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,2017-06-24,2017,Stabæk,Klepp,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,2017-06-24,2017,LSK Kvinner,Vålerenga,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,2017-06-24,2017,Vålerenga,LSK Kvinner,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,2017-06-24,2017,Grand Bodø,Kolbotn,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,2017-06-24,2017,Kolbotn,Grand Bodø,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,2017-06-25,2017,Medkila,Arna-Bjørnar,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,2017-06-25,2017,Arna-Bjørnar,Medkila,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,2017-06-25,2017,Avaldsnes,Trondheims-Ørn,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,2017-06-25,2017,Trondheims-Ørn,Avaldsnes,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,2017-06-27,2017,Stabæk,LSK Kvinner,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,2017-06-27,2017,LSK Kvinner,Stabæk,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,2017-06-28,2017,Trondheims-Ørn,Røa,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,2017-06-28,2017,Røa,Trondheims-Ørn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,2017-06-28,2017,Arna-Bjørnar,Klepp,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,2017-06-28,2017,Klepp,Arna-Bjørnar,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,2017-06-28,2017,Vålerenga,Grand Bodø,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,2017-06-28,2017,Grand Bodø,Vålerenga,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,2017-06-28,2017,Sandviken,Avaldsnes,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,2017-06-28,2017,Avaldsnes,Sandviken,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,2017-06-28,2017,Kolbotn,Medkila,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,2017-06-28,2017,Medkila,Kolbotn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,2017-07-01,2017,LSK Kvinner,Sandviken,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,2017-07-01,2017,Sandviken,LSK Kvinner,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,2017-07-01,2017,Røa,Vålerenga,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,2017-07-01,2017,Vålerenga,Røa,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,2017-07-01,2017,Klepp,Kolbotn,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,2017-07-01,2017,Kolbotn,Klepp,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,2017-07-02,2017,Medkila,Stabæk,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,2017-07-02,2017,Stabæk,Medkila,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,2017-07-02,2017,Arna-Bjørnar,Avaldsnes,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,2017-07-02,2017,Avaldsnes,Arna-Bjørnar,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,2017-07-02,2017,Grand Bodø,Trondheims-Ørn,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,2017-07-02,2017,Trondheims-Ørn,Grand Bodø,Away,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,2017-08-11,2017,Trondheims-Ørn,LSK Kvinner,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,2017-08-11,2017,LSK Kvinner,Trondheims-Ørn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,2017-08-11,2017,Avaldsnes,Grand Bodø,Home,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,2017-08-11,2017,Grand Bodø,Avaldsnes,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,2017-08-12,2017,Kolbotn,Arna-Bjørnar,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,2017-08-12,2017,Arna-Bjørnar,Kolbotn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,2017-08-12,2017,Vålerenga,Klepp,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,2017-08-12,2017,Klepp,Vålerenga,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,2017-08-12,2017,Stabæk,Røa,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,2017-08-12,2017,Røa,Stabæk,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,2017-08-13,2017,Sandviken,Medkila,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,2017-08-13,2017,Medkila,Sandviken,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,2017-08-17,2017,LSK Kvinner,Avaldsnes,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,2017-08-17,2017,Avaldsnes,LSK Kvinner,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,2017-08-19,2017,Røa,Kolbotn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,2017-08-19,2017,Kolbotn,Røa,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,2017-08-19,2017,Arna-Bjørnar,Vålerenga,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,2017-08-19,2017,Vålerenga,Arna-Bjørnar,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,2017-08-19,2017,Klepp,Sandviken,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,2017-08-19,2017,Sandviken,Klepp,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,2017-08-20,2017,Medkila,Trondheims-Ørn,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,2017-08-20,2017,Trondheims-Ørn,Medkila,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,2017-08-20,2017,Grand Bodø,Stabæk,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,2017-08-20,2017,Stabæk,Grand Bodø,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,2017-08-23,2017,Sandviken,Arna-Bjørnar,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,2017-08-23,2017,Arna-Bjørnar,Sandviken,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,2017-08-26,2017,Grand Bodø,LSK Kvinner,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,2017-08-26,2017,LSK Kvinner,Grand Bodø,Away,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,2017-08-26,2017,Stabæk,Klepp,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,2017-08-26,2017,Klepp,Stabæk,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,2017-08-26,2017,Kolbotn,Sandviken,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,2017-08-26,2017,Sandviken,Kolbotn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+87,2017-08-27,2017,Vålerenga,Medkila,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+87,2017-08-27,2017,Medkila,Vålerenga,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,2017-08-27,2017,Trondheims-Ørn,Arna-Bjørnar,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,2017-08-27,2017,Arna-Bjørnar,Trondheims-Ørn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,2017-09-02,2017,Røa,Trondheims-Ørn,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,2017-09-02,2017,Trondheims-Ørn,Røa,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,2017-09-02,2017,Kolbotn,Stabæk,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,2017-09-02,2017,Stabæk,Kolbotn,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,2017-09-02,2017,Medkila,LSK Kvinner,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,2017-09-02,2017,LSK Kvinner,Medkila,Away,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,2017-09-03,2017,Sandviken,Vålerenga,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,2017-09-03,2017,Vålerenga,Sandviken,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,2017-09-03,2017,Arna-Bjørnar,Grand Bodø,Home,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,2017-09-03,2017,Grand Bodø,Arna-Bjørnar,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+94,2017-09-06,2017,Avaldsnes,Kolbotn,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+94,2017-09-06,2017,Kolbotn,Avaldsnes,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,2017-09-06,2017,LSK Kvinner,Arna-Bjørnar,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,2017-09-06,2017,Arna-Bjørnar,LSK Kvinner,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,2017-09-09,2017,LSK Kvinner,Røa,Home,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,2017-09-09,2017,Røa,LSK Kvinner,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,2017-09-09,2017,Stabæk,Arna-Bjørnar,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,2017-09-09,2017,Arna-Bjørnar,Stabæk,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,2017-09-09,2017,Vålerenga,Kolbotn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,2017-09-09,2017,Kolbotn,Vålerenga,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,2017-09-09,2017,Grand Bodø,Medkila,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,2017-09-09,2017,Medkila,Grand Bodø,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,2017-09-10,2017,Avaldsnes,Sandviken,Home,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,2017-09-10,2017,Sandviken,Avaldsnes,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,2017-09-10,2017,Trondheims-Ørn,Klepp,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,2017-09-10,2017,Klepp,Trondheims-Ørn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,2017-09-23,2017,Vålerenga,Avaldsnes,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,2017-09-23,2017,Avaldsnes,Vålerenga,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,2017-09-23,2017,Kolbotn,Trondheims-Ørn,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,2017-09-23,2017,Trondheims-Ørn,Kolbotn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+104,2017-09-23,2017,Klepp,LSK Kvinner,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+104,2017-09-23,2017,LSK Kvinner,Klepp,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,2017-09-24,2017,Røa,Grand Bodø,Home,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,2017-09-24,2017,Grand Bodø,Røa,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,2017-09-27,2017,Klepp,Avaldsnes,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,2017-09-27,2017,Avaldsnes,Klepp,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,2017-09-27,2017,Vålerenga,Stabæk,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,2017-09-27,2017,Stabæk,Vålerenga,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,2017-10-03,2017,Sandviken,Stabæk,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,2017-10-03,2017,Stabæk,Sandviken,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,2017-10-04,2017,Arna-Bjørnar,Medkila,Home,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,2017-10-04,2017,Medkila,Arna-Bjørnar,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,2017-10-07,2017,Stabæk,Vålerenga,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,2017-10-07,2017,Vålerenga,Stabæk,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,2017-10-08,2017,Grand Bodø,Klepp,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,2017-10-08,2017,Klepp,Grand Bodø,Away,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,2017-10-08,2017,Medkila,Røa,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,2017-10-08,2017,Røa,Medkila,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,2017-10-08,2017,Trondheims-Ørn,Sandviken,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,2017-10-08,2017,Sandviken,Trondheims-Ørn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,2017-10-14,2017,Klepp,Medkila,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,2017-10-14,2017,Medkila,Klepp,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,2017-10-14,2017,Vålerenga,Trondheims-Ørn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,2017-10-14,2017,Trondheims-Ørn,Vålerenga,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,2017-10-14,2017,Arna-Bjørnar,Røa,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,2017-10-14,2017,Røa,Arna-Bjørnar,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+117,2017-10-15,2017,Sandviken,Grand Bodø,Home,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+117,2017-10-15,2017,Grand Bodø,Sandviken,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,2017-10-15,2017,Kolbotn,LSK Kvinner,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,2017-10-15,2017,LSK Kvinner,Kolbotn,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,2017-10-15,2017,Stabæk,Avaldsnes,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,2017-10-15,2017,Avaldsnes,Stabæk,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,2017-10-28,2017,Røa,Klepp,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,2017-10-28,2017,Klepp,Røa,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,2017-10-28,2017,LSK Kvinner,Stabæk,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,2017-10-28,2017,Stabæk,LSK Kvinner,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,2017-10-28,2017,Arna-Bjørnar,Sandviken,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,2017-10-28,2017,Sandviken,Arna-Bjørnar,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,2017-10-28,2017,Grand Bodø,Vålerenga,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,2017-10-28,2017,Vålerenga,Grand Bodø,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+124,2017-10-28,2017,Medkila,Kolbotn,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+124,2017-10-28,2017,Kolbotn,Medkila,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,2017-10-28,2017,Trondheims-Ørn,Avaldsnes,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,2017-10-28,2017,Avaldsnes,Trondheims-Ørn,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+126,2017-11-04,2017,Klepp,Arna-Bjørnar,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+126,2017-11-04,2017,Arna-Bjørnar,Klepp,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+127,2017-11-04,2017,Stabæk,Trondheims-Ørn,Home,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+127,2017-11-04,2017,Trondheims-Ørn,Stabæk,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,2017-11-04,2017,Avaldsnes,Medkila,Home,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,2017-11-04,2017,Medkila,Avaldsnes,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,2017-11-04,2017,Kolbotn,Grand Bodø,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,2017-11-04,2017,Grand Bodø,Kolbotn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,2017-11-04,2017,Sandviken,Røa,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,2017-11-04,2017,Røa,Sandviken,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,2017-11-04,2017,Vålerenga,LSK Kvinner,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,2017-11-04,2017,LSK Kvinner,Vålerenga,Away,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+132,2018-03-24,2018,Sandviken,Kolbotn,Home,0,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+132,2018-03-24,2018,Kolbotn,Sandviken,Away,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+133,2018-03-24,2018,Klepp,Arna-Bjørnar,Home,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+133,2018-03-24,2018,Arna-Bjørnar,Klepp,Away,2,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+134,2018-03-24,2018,Grand Bodø,Trondheims-Ørn,Home,2,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+134,2018-03-24,2018,Trondheims-Ørn,Grand Bodø,Away,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+135,2018-03-24,2018,Røa,Lyn,Home,1,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,2018-03-24,2018,Lyn,Røa,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+136,2018-03-24,2018,Vålerenga,LSK Kvinner,Home,0,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+136,2018-03-24,2018,LSK Kvinner,Vålerenga,Away,5,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+137,2018-03-28,2018,Arna-Bjørnar,Grand Bodø,Home,5,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+137,2018-03-28,2018,Grand Bodø,Arna-Bjørnar,Away,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+138,2018-03-29,2018,LSK Kvinner,Sandviken,Home,6,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+138,2018-03-29,2018,Sandviken,LSK Kvinner,Away,0,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+139,2018-03-31,2018,Trondheims-Ørn,Stabæk,Home,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+139,2018-03-31,2018,Stabæk,Trondheims-Ørn,Away,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+140,2018-04-14,2018,Klepp,Lyn,Home,3,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,2018-04-14,2018,Lyn,Klepp,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+141,2018-04-14,2018,Røa,LSK Kvinner,Home,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+141,2018-04-14,2018,LSK Kvinner,Røa,Away,5,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+142,2018-04-14,2018,Stabæk,Arna-Bjørnar,Home,2,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+142,2018-04-14,2018,Arna-Bjørnar,Stabæk,Away,2,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+143,2018-04-15,2018,Sandviken,Trondheims-Ørn,Home,3,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+143,2018-04-15,2018,Trondheims-Ørn,Sandviken,Away,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+144,2018-04-15,2018,Grand Bodø,Avaldsnes,Home,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+144,2018-04-15,2018,Avaldsnes,Grand Bodø,Away,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+145,2018-04-15,2018,Vålerenga,Kolbotn,Home,2,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+145,2018-04-15,2018,Kolbotn,Vålerenga,Away,3,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+146,2018-04-21,2018,Trondheims-Ørn,Røa,Home,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+146,2018-04-21,2018,Røa,Trondheims-Ørn,Away,0,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+147,2018-04-21,2018,LSK Kvinner,Stabæk,Home,1,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+147,2018-04-21,2018,Stabæk,LSK Kvinner,Away,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+148,2018-04-21,2018,Arna-Bjørnar,Sandviken,Home,1,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+148,2018-04-21,2018,Sandviken,Arna-Bjørnar,Away,2,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+149,2018-04-22,2018,Klepp,Grand Bodø,Home,6,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+149,2018-04-22,2018,Grand Bodø,Klepp,Away,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+150,2018-04-22,2018,Avaldsnes,Vålerenga,Home,0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+150,2018-04-22,2018,Vålerenga,Avaldsnes,Away,3,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+151,2018-04-28,2018,Vålerenga,Stabæk,Home,5,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+151,2018-04-28,2018,Stabæk,Vålerenga,Away,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+152,2018-04-28,2018,Sandviken,Avaldsnes,Home,1,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+152,2018-04-28,2018,Avaldsnes,Sandviken,Away,0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+153,2018-04-28,2018,Lyn,Arna-Bjørnar,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+153,2018-04-28,2018,Arna-Bjørnar,Lyn,Away,1,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,2018-04-29,2018,Kolbotn,LSK Kvinner,Home,0,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+154,2018-04-29,2018,LSK Kvinner,Kolbotn,Away,5,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+155,2018-04-29,2018,Trondheims-Ørn,Klepp,Home,0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+155,2018-04-29,2018,Klepp,Trondheims-Ørn,Away,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+156,2018-04-29,2018,Røa,Grand Bodø,Home,4,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+156,2018-04-29,2018,Grand Bodø,Røa,Away,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+157,2018-05-01,2018,Stabæk,Avaldsnes,Home,4,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+157,2018-05-01,2018,Avaldsnes,Stabæk,Away,2,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+158,2018-05-02,2018,Lyn,Vålerenga,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+158,2018-05-02,2018,Vålerenga,Lyn,Away,1,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,2018-05-05,2018,Klepp,Vålerenga,Home,3,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+159,2018-05-05,2018,Vålerenga,Klepp,Away,0,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+160,2018-05-05,2018,LSK Kvinner,Trondheims-Ørn,Home,5,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+160,2018-05-05,2018,Trondheims-Ørn,LSK Kvinner,Away,0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+161,2018-05-05,2018,Avaldsnes,Lyn,Home,3,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,2018-05-05,2018,Lyn,Avaldsnes,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+162,2018-05-05,2018,Arna-Bjørnar,Kolbotn,Home,1,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+162,2018-05-05,2018,Kolbotn,Arna-Bjørnar,Away,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+163,2018-05-06,2018,Grand Bodø,Sandviken,Home,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+163,2018-05-06,2018,Sandviken,Grand Bodø,Away,3,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+164,2018-05-06,2018,Stabæk,Røa,Home,1,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+164,2018-05-06,2018,Røa,Stabæk,Away,3,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+165,2018-05-12,2018,Røa,Avaldsnes,Home,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+165,2018-05-12,2018,Avaldsnes,Røa,Away,0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+166,2018-05-12,2018,Sandviken,Klepp,Home,1,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+166,2018-05-12,2018,Klepp,Sandviken,Away,0,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+167,2018-05-12,2018,Lyn,LSK Kvinner,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+167,2018-05-12,2018,LSK Kvinner,Lyn,Away,4,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,2018-05-12,2018,Kolbotn,Stabæk,Home,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+168,2018-05-12,2018,Stabæk,Kolbotn,Away,1,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+169,2018-05-13,2018,Trondheims-Ørn,Arna-Bjørnar,Home,2,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+169,2018-05-13,2018,Arna-Bjørnar,Trondheims-Ørn,Away,6,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+170,2018-05-13,2018,Vålerenga,Grand Bodø,Home,3,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+170,2018-05-13,2018,Grand Bodø,Vålerenga,Away,2,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+171,2018-05-19,2018,Sandviken,Vålerenga,Home,3,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+171,2018-05-19,2018,Vålerenga,Sandviken,Away,0,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+172,2018-05-19,2018,Avaldsnes,Trondheims-Ørn,Home,2,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+172,2018-05-19,2018,Trondheims-Ørn,Avaldsnes,Away,0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+173,2018-05-19,2018,Klepp,Røa,Home,2,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+173,2018-05-19,2018,Røa,Klepp,Away,1,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+174,2018-05-19,2018,Arna-Bjørnar,LSK Kvinner,Home,0,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+174,2018-05-19,2018,LSK Kvinner,Arna-Bjørnar,Away,1,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+175,2018-05-19,2018,Stabæk,Lyn,Home,5,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,2018-05-19,2018,Lyn,Stabæk,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+176,2018-05-20,2018,Grand Bodø,Kolbotn,Home,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+176,2018-05-20,2018,Kolbotn,Grand Bodø,Away,2,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+177,2018-05-26,2018,Røa,Arna-Bjørnar,Home,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+177,2018-05-26,2018,Arna-Bjørnar,Røa,Away,2,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+178,2018-05-26,2018,Kolbotn,Klepp,Home,3,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+178,2018-05-26,2018,Klepp,Kolbotn,Away,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+179,2018-05-26,2018,Stabæk,Sandviken,Home,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+179,2018-05-26,2018,Sandviken,Stabæk,Away,1,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+180,2018-05-27,2018,Lyn,Grand Bodø,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+180,2018-05-27,2018,Grand Bodø,Lyn,Away,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,2018-05-27,2018,Vålerenga,Trondheims-Ørn,Home,0,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+181,2018-05-27,2018,Trondheims-Ørn,Vålerenga,Away,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+182,2018-05-27,2018,LSK Kvinner,Avaldsnes,Home,4,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+182,2018-05-27,2018,Avaldsnes,LSK Kvinner,Away,0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+183,2018-06-04,2018,Avaldsnes,Klepp,Home,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+183,2018-06-04,2018,Klepp,Avaldsnes,Away,2,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+184,2018-06-16,2018,Sandviken,Lyn,Home,6,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,2018-06-16,2018,Lyn,Sandviken,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+185,2018-06-16,2018,Trondheims-Ørn,Kolbotn,Home,2,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+185,2018-06-16,2018,Kolbotn,Trondheims-Ørn,Away,2,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+186,2018-06-16,2018,Avaldsnes,Arna-Bjørnar,Home,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+186,2018-06-16,2018,Arna-Bjørnar,Avaldsnes,Away,0,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+187,2018-06-16,2018,Vålerenga,Røa,Home,2,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+187,2018-06-16,2018,Røa,Vålerenga,Away,1,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+188,2018-06-16,2018,Grand Bodø,Stabæk,Home,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+188,2018-06-16,2018,Stabæk,Grand Bodø,Away,3,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+189,2018-06-16,2018,Klepp,LSK Kvinner,Home,0,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+189,2018-06-16,2018,LSK Kvinner,Klepp,Away,2,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+190,2018-06-23,2018,Kolbotn,Avaldsnes,Home,2,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+190,2018-06-23,2018,Avaldsnes,Kolbotn,Away,0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+191,2018-06-23,2018,Røa,Sandviken,Home,3,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+191,2018-06-23,2018,Sandviken,Røa,Away,2,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+192,2018-06-23,2018,Stabæk,Klepp,Home,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+192,2018-06-23,2018,Klepp,Stabæk,Away,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+193,2018-06-23,2018,Lyn,Trondheims-Ørn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+193,2018-06-23,2018,Trondheims-Ørn,Lyn,Away,3,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194,2018-06-23,2018,Arna-Bjørnar,Vålerenga,Home,3,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+194,2018-06-23,2018,Vålerenga,Arna-Bjørnar,Away,2,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+195,2018-06-24,2018,LSK Kvinner,Grand Bodø,Home,2,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+195,2018-06-24,2018,Grand Bodø,LSK Kvinner,Away,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+196,2018-06-27,2018,Kolbotn,Røa,Home,0,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+196,2018-06-27,2018,Røa,Kolbotn,Away,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+197,2018-06-30,2018,Trondheims-Ørn,LSK Kvinner,Home,2,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+197,2018-06-30,2018,LSK Kvinner,Trondheims-Ørn,Away,3,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+198,2018-06-30,2018,Sandviken,Stabæk,Home,1,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+198,2018-06-30,2018,Stabæk,Sandviken,Away,3,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+199,2018-06-30,2018,Klepp,Kolbotn,Home,2,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+199,2018-06-30,2018,Kolbotn,Klepp,Away,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+200,2018-06-30,2018,Grand Bodø,Arna-Bjørnar,Home,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+200,2018-06-30,2018,Arna-Bjørnar,Grand Bodø,Away,4,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+201,2018-07-01,2018,Avaldsnes,Røa,Home,2,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+201,2018-07-01,2018,Røa,Avaldsnes,Away,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+202,2018-07-01,2018,Vålerenga,Lyn,Home,6,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,2018-07-01,2018,Lyn,Vålerenga,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+203,2018-07-04,2018,Arna-Bjørnar,Avaldsnes,Home,4,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+203,2018-07-04,2018,Avaldsnes,Arna-Bjørnar,Away,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+204,2018-08-03,2018,Lyn,Avaldsnes,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+204,2018-08-03,2018,Avaldsnes,Lyn,Away,2,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,2018-08-04,2018,Røa,Klepp,Home,0,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+205,2018-08-04,2018,Klepp,Røa,Away,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+206,2018-08-04,2018,Kolbotn,Sandviken,Home,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+206,2018-08-04,2018,Sandviken,Kolbotn,Away,1,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+207,2018-08-04,2018,LSK Kvinner,Vålerenga,Home,2,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+207,2018-08-04,2018,Vålerenga,LSK Kvinner,Away,0,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+208,2018-08-04,2018,Stabæk,Grand Bodø,Home,2,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+208,2018-08-04,2018,Grand Bodø,Stabæk,Away,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+209,2018-08-05,2018,Arna-Bjørnar,Trondheims-Ørn,Home,6,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+209,2018-08-05,2018,Trondheims-Ørn,Arna-Bjørnar,Away,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+210,2018-08-11,2018,Vålerenga,Sandviken,Home,1,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+210,2018-08-11,2018,Sandviken,Vålerenga,Away,0,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+211,2018-08-11,2018,Klepp,Stabæk,Home,2,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+211,2018-08-11,2018,Stabæk,Klepp,Away,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+212,2018-08-11,2018,Røa,Kolbotn,Home,1,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+212,2018-08-11,2018,Kolbotn,Røa,Away,2,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+213,2018-08-11,2018,Trondheims-Ørn,Lyn,Home,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,2018-08-11,2018,Lyn,Trondheims-Ørn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+214,2018-08-12,2018,Grand Bodø,LSK Kvinner,Home,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+214,2018-08-12,2018,LSK Kvinner,Grand Bodø,Away,3,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+215,2018-08-15,2018,Kolbotn,Lyn,Home,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,2018-08-15,2018,Lyn,Kolbotn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+216,2018-08-18,2018,Stabæk,Vålerenga,Home,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+216,2018-08-18,2018,Vålerenga,Stabæk,Away,1,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+217,2018-08-18,2018,Sandviken,Røa,Home,5,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+217,2018-08-18,2018,Røa,Sandviken,Away,3,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+218,2018-08-18,2018,Lyn,Klepp,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+218,2018-08-18,2018,Klepp,Lyn,Away,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+219,2018-08-18,2018,Kolbotn,Trondheims-Ørn,Home,3,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+219,2018-08-18,2018,Trondheims-Ørn,Kolbotn,Away,3,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+220,2018-08-18,2018,LSK Kvinner,Arna-Bjørnar,Home,2,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+220,2018-08-18,2018,Arna-Bjørnar,LSK Kvinner,Away,0,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+221,2018-08-19,2018,Avaldsnes,Grand Bodø,Home,3,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+221,2018-08-19,2018,Grand Bodø,Avaldsnes,Away,3,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+222,2018-08-25,2018,Arna-Bjørnar,Lyn,Home,2,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+222,2018-08-25,2018,Lyn,Arna-Bjørnar,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+223,2018-08-25,2018,Røa,Stabæk,Home,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+223,2018-08-25,2018,Stabæk,Røa,Away,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+224,2018-08-25,2018,Trondheims-Ørn,Avaldsnes,Home,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+224,2018-08-25,2018,Avaldsnes,Trondheims-Ørn,Away,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+225,2018-08-26,2018,LSK Kvinner,Kolbotn,Home,5,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+225,2018-08-26,2018,Kolbotn,LSK Kvinner,Away,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+226,2018-08-26,2018,Grand Bodø,Vålerenga,Home,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+226,2018-08-26,2018,Vålerenga,Grand Bodø,Away,2,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+227,2018-08-26,2018,Klepp,Sandviken,Home,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+227,2018-08-26,2018,Sandviken,Klepp,Away,1,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+228,2018-09-08,2018,Avaldsnes,LSK Kvinner,Home,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+228,2018-09-08,2018,LSK Kvinner,Avaldsnes,Away,4,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+229,2018-09-08,2018,Stabæk,Trondheims-Ørn,Home,2,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+229,2018-09-08,2018,Trondheims-Ørn,Stabæk,Away,0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+230,2018-09-08,2018,Kolbotn,Arna-Bjørnar,Home,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+230,2018-09-08,2018,Arna-Bjørnar,Kolbotn,Away,4,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+231,2018-09-08,2018,Lyn,Røa,Home,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+231,2018-09-08,2018,Røa,Lyn,Away,4,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+232,2018-09-09,2018,Sandviken,Grand Bodø,Home,4,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+232,2018-09-09,2018,Grand Bodø,Sandviken,Away,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+233,2018-09-09,2018,Vålerenga,Klepp,Home,1,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+233,2018-09-09,2018,Klepp,Vålerenga,Away,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+234,2018-09-15,2018,Arna-Bjørnar,Stabæk,Home,6,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+234,2018-09-15,2018,Stabæk,Arna-Bjørnar,Away,2,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+235,2018-09-15,2018,Røa,Vålerenga,Home,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+235,2018-09-15,2018,Vålerenga,Røa,Away,1,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+236,2018-09-16,2018,Avaldsnes,Kolbotn,Home,0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+236,2018-09-16,2018,Kolbotn,Avaldsnes,Away,0,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+237,2018-09-16,2018,Grand Bodø,Klepp,Home,3,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+237,2018-09-16,2018,Klepp,Grand Bodø,Away,5,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+238,2018-09-16,2018,Trondheims-Ørn,Sandviken,Home,3,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+238,2018-09-16,2018,Sandviken,Trondheims-Ørn,Away,3,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+239,2018-09-16,2018,LSK Kvinner,Lyn,Home,2,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+239,2018-09-16,2018,Lyn,LSK Kvinner,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+240,2018-09-21,2018,Stabæk,LSK Kvinner,Home,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+240,2018-09-21,2018,LSK Kvinner,Stabæk,Away,2,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+241,2018-09-22,2018,Sandviken,Arna-Bjørnar,Home,1,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+241,2018-09-22,2018,Arna-Bjørnar,Sandviken,Away,1,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+242,2018-09-22,2018,Lyn,Kolbotn,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+242,2018-09-22,2018,Kolbotn,Lyn,Away,1,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+243,2018-09-23,2018,Grand Bodø,Røa,Home,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+243,2018-09-23,2018,Røa,Grand Bodø,Away,3,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+244,2018-09-26,2018,Klepp,Trondheims-Ørn,Home,1,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+244,2018-09-26,2018,Trondheims-Ørn,Klepp,Away,0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+245,2018-10-13,2018,Vålerenga,Avaldsnes,Home,2,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+245,2018-10-13,2018,Avaldsnes,Vålerenga,Away,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+246,2018-10-20,2018,Avaldsnes,Sandviken,Home,0,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+246,2018-10-20,2018,Sandviken,Avaldsnes,Away,0,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+247,2018-10-20,2018,Trondheims-Ørn,Vålerenga,Home,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+247,2018-10-20,2018,Vålerenga,Trondheims-Ørn,Away,3,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+248,2018-10-20,2018,Lyn,Stabæk,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+248,2018-10-20,2018,Stabæk,Lyn,Away,3,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,2018-10-20,2018,Arna-Bjørnar,Røa,Home,2,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+249,2018-10-20,2018,Røa,Arna-Bjørnar,Away,0,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+250,2018-10-21,2018,LSK Kvinner,Klepp,Home,2,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+250,2018-10-21,2018,Klepp,LSK Kvinner,Away,3,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+251,2018-10-21,2018,Kolbotn,Grand Bodø,Home,3,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+251,2018-10-21,2018,Grand Bodø,Kolbotn,Away,2,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+252,2018-10-27,2018,Klepp,Avaldsnes,Home,2,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+252,2018-10-27,2018,Avaldsnes,Klepp,Away,1,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+253,2018-10-27,2018,Stabæk,Kolbotn,Home,1,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+253,2018-10-27,2018,Kolbotn,Stabæk,Away,2,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+254,2018-10-27,2018,Røa,Trondheims-Ørn,Home,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+254,2018-10-27,2018,Trondheims-Ørn,Røa,Away,1,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+255,2018-10-27,2018,Grand Bodø,Lyn,Home,1,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,2018-10-27,2018,Lyn,Grand Bodø,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+256,2018-10-27,2018,Vålerenga,Arna-Bjørnar,Home,1,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+256,2018-10-27,2018,Arna-Bjørnar,Vålerenga,Away,1,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+257,2018-10-27,2018,Sandviken,LSK Kvinner,Home,0,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+257,2018-10-27,2018,LSK Kvinner,Sandviken,Away,0,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+258,2018-11-04,2018,Trondheims-Ørn,Grand Bodø,Home,0,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091
+258,2018-11-04,2018,Grand Bodø,Trondheims-Ørn,Away,0,11.0,29.0,22.7,2.0,2.0,18.0,-50.0,8.0,30.0,0.09090909090909091,8.0,36.0,22.1,8.0,6.0,8.0,0.0,30.0,36.0,0.36363636363636365
+259,2018-11-04,2018,Kolbotn,Vålerenga,Home,3,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453
+259,2018-11-04,2018,Vålerenga,Kolbotn,Away,1,7.0,38.0,25.8,10.0,4.0,8.0,5.0,34.0,38.0,0.45454545454545453,10.0,16.0,21.9,4.0,3.0,15.0,-26.0,15.0,17.0,0.18181818181818182
+260,2018-11-04,2018,LSK Kvinner,Røa,Home,6,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5
+260,2018-11-04,2018,Røa,LSK Kvinner,Away,2,5.0,42.0,22.8,11.0,4.0,7.0,14.0,37.0,42.0,0.5,1.0,65.0,24.2,19.0,2.0,1.0,50.0,59.0,68.0,0.8636363636363636
+261,2018-11-04,2018,Lyn,Sandviken,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182
+261,2018-11-04,2018,Sandviken,Lyn,Away,4,9.0,23.0,24.4,4.0,6.0,12.0,-11.0,18.0,23.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+262,2018-11-04,2018,Avaldsnes,Stabæk,Home,2,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909
+262,2018-11-04,2018,Stabæk,Avaldsnes,Away,0,3.0,44.0,25.5,13.0,4.0,5.0,23.0,43.0,46.0,0.5909090909090909,2.0,48.0,25.5,15.0,3.0,4.0,34.0,48.0,51.0,0.6818181818181818
+263,2018-11-04,2018,Arna-Bjørnar,Klepp,Home,0,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454
+263,2018-11-04,2018,Klepp,Arna-Bjørnar,Away,0,4.0,31.0,23.5,12.0,4.0,6.0,10.0,40.0,34.0,0.5454545454545454,6.0,36.0,22.0,9.0,8.0,5.0,11.0,35.0,39.0,0.4090909090909091
+264,2019-03-23,2019,LSK Kvinner,Kolbotn,Home,4,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+264,2019-03-23,2019,Kolbotn,LSK Kvinner,Away,3,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+265,2019-03-23,2019,Sandviken,Røa,Home,0,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+265,2019-03-23,2019,Røa,Sandviken,Away,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+266,2019-03-23,2019,Klepp,Avaldsnes,Home,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+266,2019-03-23,2019,Avaldsnes,Klepp,Away,0,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+267,2019-03-23,2019,Lyn,Fart,Home,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+267,2019-03-23,2019,Fart,Lyn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+268,2019-03-24,2019,Trondheims-Ørn,Arna-Bjørnar,Home,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+268,2019-03-24,2019,Arna-Bjørnar,Trondheims-Ørn,Away,0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+269,2019-03-24,2019,Vålerenga,Stabæk,Home,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+269,2019-03-24,2019,Stabæk,Vålerenga,Away,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+270,2019-03-30,2019,Arna-Bjørnar,Lyn,Home,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+270,2019-03-30,2019,Lyn,Arna-Bjørnar,Away,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+271,2019-03-30,2019,Avaldsnes,LSK Kvinner,Home,1,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+271,2019-03-30,2019,LSK Kvinner,Avaldsnes,Away,1,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+272,2019-03-30,2019,Røa,Trondheims-Ørn,Home,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+272,2019-03-30,2019,Trondheims-Ørn,Røa,Away,1,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+273,2019-03-30,2019,Stabæk,Klepp,Home,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+273,2019-03-30,2019,Klepp,Stabæk,Away,2,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+274,2019-03-30,2019,Fart,Sandviken,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+274,2019-03-30,2019,Sandviken,Fart,Away,3,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275,2019-03-30,2019,Kolbotn,Vålerenga,Home,1,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+275,2019-03-30,2019,Vålerenga,Kolbotn,Away,2,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+276,2019-04-13,2019,Klepp,Røa,Home,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+276,2019-04-13,2019,Røa,Klepp,Away,0,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+277,2019-04-13,2019,Lyn,Kolbotn,Home,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+277,2019-04-13,2019,Kolbotn,Lyn,Away,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+278,2019-04-13,2019,Sandviken,Stabæk,Home,3,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+278,2019-04-13,2019,Stabæk,Sandviken,Away,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+279,2019-04-13,2019,Vålerenga,Fart,Home,4,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+279,2019-04-13,2019,Fart,Vålerenga,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+280,2019-04-13,2019,LSK Kvinner,Arna-Bjørnar,Home,3,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+280,2019-04-13,2019,Arna-Bjørnar,LSK Kvinner,Away,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+281,2019-04-14,2019,Trondheims-Ørn,Avaldsnes,Home,1,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+281,2019-04-14,2019,Avaldsnes,Trondheims-Ørn,Away,1,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+282,2019-04-17,2019,Lyn,LSK Kvinner,Home,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+282,2019-04-17,2019,LSK Kvinner,Lyn,Away,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+283,2019-04-22,2019,Avaldsnes,Vålerenga,Home,2,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+283,2019-04-22,2019,Vålerenga,Avaldsnes,Away,2,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+284,2019-04-22,2019,Arna-Bjørnar,Klepp,Home,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+284,2019-04-22,2019,Klepp,Arna-Bjørnar,Away,0,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+285,2019-04-22,2019,Kolbotn,Sandviken,Home,3,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+285,2019-04-22,2019,Sandviken,Kolbotn,Away,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+286,2019-04-22,2019,Fart,LSK Kvinner,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+286,2019-04-22,2019,LSK Kvinner,Fart,Away,4,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+287,2019-04-22,2019,Stabæk,Trondheims-Ørn,Home,1,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+287,2019-04-22,2019,Trondheims-Ørn,Stabæk,Away,1,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+288,2019-04-22,2019,Røa,Lyn,Home,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+288,2019-04-22,2019,Lyn,Røa,Away,3,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+289,2019-04-27,2019,Lyn,Stabæk,Home,2,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+289,2019-04-27,2019,Stabæk,Lyn,Away,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+290,2019-04-27,2019,Fart,Kolbotn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+290,2019-04-27,2019,Kolbotn,Fart,Away,3,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+291,2019-04-27,2019,LSK Kvinner,Røa,Home,1,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+291,2019-04-27,2019,Røa,LSK Kvinner,Away,1,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+292,2019-04-27,2019,Sandviken,Avaldsnes,Home,6,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+292,2019-04-27,2019,Avaldsnes,Sandviken,Away,4,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+293,2019-04-28,2019,Trondheims-Ørn,Klepp,Home,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+293,2019-04-28,2019,Klepp,Trondheims-Ørn,Away,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+294,2019-04-28,2019,Vålerenga,Arna-Bjørnar,Home,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+294,2019-04-28,2019,Arna-Bjørnar,Vålerenga,Away,0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+295,2019-05-01,2019,Trondheims-Ørn,Vålerenga,Home,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+295,2019-05-01,2019,Vålerenga,Trondheims-Ørn,Away,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+296,2019-05-01,2019,Avaldsnes,Fart,Home,3,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+296,2019-05-01,2019,Fart,Avaldsnes,Away,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+297,2019-05-01,2019,LSK Kvinner,Stabæk,Home,4,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+297,2019-05-01,2019,Stabæk,LSK Kvinner,Away,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+298,2019-05-01,2019,Arna-Bjørnar,Sandviken,Home,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+298,2019-05-01,2019,Sandviken,Arna-Bjørnar,Away,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+299,2019-05-01,2019,Røa,Kolbotn,Home,1,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+299,2019-05-01,2019,Kolbotn,Røa,Away,2,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+300,2019-05-01,2019,Klepp,Lyn,Home,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+300,2019-05-01,2019,Lyn,Klepp,Away,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+301,2019-05-04,2019,Kolbotn,Avaldsnes,Home,3,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+301,2019-05-04,2019,Avaldsnes,Kolbotn,Away,1,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+302,2019-05-04,2019,Stabæk,Røa,Home,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+302,2019-05-04,2019,Røa,Stabæk,Away,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+303,2019-05-05,2019,Fart,Arna-Bjørnar,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+303,2019-05-05,2019,Arna-Bjørnar,Fart,Away,3,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+304,2019-05-05,2019,Sandviken,Klepp,Home,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+304,2019-05-05,2019,Klepp,Sandviken,Away,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+305,2019-05-05,2019,Lyn,Trondheims-Ørn,Home,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+305,2019-05-05,2019,Trondheims-Ørn,Lyn,Away,3,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+306,2019-05-05,2019,Vålerenga,LSK Kvinner,Home,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+306,2019-05-05,2019,LSK Kvinner,Vålerenga,Away,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+307,2019-05-11,2019,LSK Kvinner,Lyn,Home,6,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+307,2019-05-11,2019,Lyn,LSK Kvinner,Away,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+308,2019-05-11,2019,Klepp,Vålerenga,Home,5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+308,2019-05-11,2019,Vålerenga,Klepp,Away,0,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+309,2019-05-11,2019,Avaldsnes,Stabæk,Home,4,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+309,2019-05-11,2019,Stabæk,Avaldsnes,Away,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+310,2019-05-11,2019,Røa,Fart,Home,5,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+310,2019-05-11,2019,Fart,Røa,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+311,2019-05-11,2019,Trondheims-Ørn,Sandviken,Home,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+311,2019-05-11,2019,Sandviken,Trondheims-Ørn,Away,1,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+312,2019-05-12,2019,Arna-Bjørnar,Kolbotn,Home,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+312,2019-05-12,2019,Kolbotn,Arna-Bjørnar,Away,3,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+313,2019-05-18,2019,Fart,Trondheims-Ørn,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+313,2019-05-18,2019,Trondheims-Ørn,Fart,Away,2,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+314,2019-05-18,2019,Stabæk,Arna-Bjørnar,Home,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+314,2019-05-18,2019,Arna-Bjørnar,Stabæk,Away,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+315,2019-05-18,2019,Vålerenga,Lyn,Home,0,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+315,2019-05-18,2019,Lyn,Vålerenga,Away,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+316,2019-05-19,2019,Kolbotn,Klepp,Home,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+316,2019-05-19,2019,Klepp,Kolbotn,Away,0,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+317,2019-05-19,2019,Sandviken,LSK Kvinner,Home,1,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+317,2019-05-19,2019,LSK Kvinner,Sandviken,Away,3,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+318,2019-05-19,2019,Røa,Avaldsnes,Home,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+318,2019-05-19,2019,Avaldsnes,Røa,Away,2,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+319,2019-07-27,2019,Vålerenga,Sandviken,Home,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+319,2019-07-27,2019,Sandviken,Vålerenga,Away,1,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+320,2019-08-03,2019,Avaldsnes,Arna-Bjørnar,Home,2,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+320,2019-08-03,2019,Arna-Bjørnar,Avaldsnes,Away,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+321,2019-08-03,2019,Kolbotn,Trondheims-Ørn,Home,1,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+321,2019-08-03,2019,Trondheims-Ørn,Kolbotn,Away,2,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+322,2019-08-03,2019,Fart,Stabæk,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+322,2019-08-03,2019,Stabæk,Fart,Away,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+323,2019-08-03,2019,LSK Kvinner,Klepp,Home,0,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+323,2019-08-03,2019,Klepp,LSK Kvinner,Away,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+324,2019-08-04,2019,Røa,Vålerenga,Home,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+324,2019-08-04,2019,Vålerenga,Røa,Away,6,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+325,2019-08-04,2019,Sandviken,Lyn,Home,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+325,2019-08-04,2019,Lyn,Sandviken,Away,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+326,2019-08-10,2019,Vålerenga,Kolbotn,Home,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+326,2019-08-10,2019,Kolbotn,Vålerenga,Away,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+327,2019-08-10,2019,Stabæk,Avaldsnes,Home,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+327,2019-08-10,2019,Avaldsnes,Stabæk,Away,0,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+328,2019-08-10,2019,Arna-Bjørnar,Fart,Home,3,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+328,2019-08-10,2019,Fart,Arna-Bjørnar,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+329,2019-08-10,2019,Trondheims-Ørn,Røa,Home,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+329,2019-08-10,2019,Røa,Trondheims-Ørn,Away,1,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+330,2019-08-11,2019,Klepp,Sandviken,Home,2,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+330,2019-08-11,2019,Sandviken,Klepp,Away,3,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+331,2019-08-17,2019,LSK Kvinner,Vålerenga,Home,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+331,2019-08-17,2019,Vålerenga,LSK Kvinner,Away,0,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+332,2019-08-17,2019,Kolbotn,Arna-Bjørnar,Home,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+332,2019-08-17,2019,Arna-Bjørnar,Kolbotn,Away,2,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+333,2019-08-17,2019,Fart,Lyn,Home,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+333,2019-08-17,2019,Lyn,Fart,Away,2,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+334,2019-08-17,2019,Avaldsnes,Klepp,Home,1,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+334,2019-08-17,2019,Klepp,Avaldsnes,Away,3,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+335,2019-08-17,2019,Røa,Stabæk,Home,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+335,2019-08-17,2019,Stabæk,Røa,Away,1,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+336,2019-08-18,2019,Sandviken,Trondheims-Ørn,Home,1,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+336,2019-08-18,2019,Trondheims-Ørn,Sandviken,Away,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+337,2019-08-24,2019,Klepp,Kolbotn,Home,3,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+337,2019-08-24,2019,Kolbotn,Klepp,Away,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+338,2019-08-24,2019,Trondheims-Ørn,Fart,Home,3,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+338,2019-08-24,2019,Fart,Trondheims-Ørn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+339,2019-08-24,2019,Avaldsnes,Røa,Home,1,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+339,2019-08-24,2019,Røa,Avaldsnes,Away,0,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+340,2019-08-24,2019,Stabæk,Sandviken,Home,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+340,2019-08-24,2019,Sandviken,Stabæk,Away,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+341,2019-08-25,2019,Lyn,Vålerenga,Home,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+341,2019-08-25,2019,Vålerenga,Lyn,Away,2,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+342,2019-08-25,2019,Arna-Bjørnar,LSK Kvinner,Home,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+342,2019-08-25,2019,LSK Kvinner,Arna-Bjørnar,Away,3,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+343,2019-09-07,2019,LSK Kvinner,Trondheims-Ørn,Home,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+343,2019-09-07,2019,Trondheims-Ørn,LSK Kvinner,Away,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+344,2019-09-07,2019,Vålerenga,Klepp,Home,4,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+344,2019-09-07,2019,Klepp,Vålerenga,Away,0,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+345,2019-09-07,2019,Fart,Avaldsnes,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+345,2019-09-07,2019,Avaldsnes,Fart,Away,3,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+346,2019-09-07,2019,Arna-Bjørnar,Stabæk,Home,2,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+346,2019-09-07,2019,Stabæk,Arna-Bjørnar,Away,2,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+347,2019-09-07,2019,Lyn,Sandviken,Home,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+347,2019-09-07,2019,Sandviken,Lyn,Away,1,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+348,2019-09-09,2019,Kolbotn,Røa,Home,4,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+348,2019-09-09,2019,Røa,Kolbotn,Away,4,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+349,2019-09-14,2019,Røa,Arna-Bjørnar,Home,6,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+349,2019-09-14,2019,Arna-Bjørnar,Røa,Away,1,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+350,2019-09-14,2019,Sandviken,Vålerenga,Home,3,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+350,2019-09-14,2019,Vålerenga,Sandviken,Away,4,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+351,2019-09-14,2019,Avaldsnes,Kolbotn,Home,2,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+351,2019-09-14,2019,Kolbotn,Avaldsnes,Away,1,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+352,2019-09-14,2019,Stabæk,Fart,Home,3,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+352,2019-09-14,2019,Fart,Stabæk,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+353,2019-09-14,2019,Trondheims-Ørn,Lyn,Home,1,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+353,2019-09-14,2019,Lyn,Trondheims-Ørn,Away,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+354,2019-09-15,2019,Klepp,LSK Kvinner,Home,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+354,2019-09-15,2019,LSK Kvinner,Klepp,Away,1,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+355,2019-09-18,2019,Lyn,Avaldsnes,Home,2,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+355,2019-09-18,2019,Avaldsnes,Lyn,Away,3,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+356,2019-09-18,2019,Trondheims-Ørn,LSK Kvinner,Home,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+356,2019-09-18,2019,LSK Kvinner,Trondheims-Ørn,Away,3,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+357,2019-09-18,2019,Stabæk,Kolbotn,Home,2,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+357,2019-09-18,2019,Kolbotn,Stabæk,Away,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+358,2019-09-21,2019,Lyn,Klepp,Home,2,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+358,2019-09-21,2019,Klepp,Lyn,Away,1,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+359,2019-09-21,2019,Vålerenga,Trondheims-Ørn,Home,3,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+359,2019-09-21,2019,Trondheims-Ørn,Vålerenga,Away,1,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+360,2019-09-21,2019,Fart,Røa,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+360,2019-09-21,2019,Røa,Fart,Away,1,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+361,2019-09-21,2019,Arna-Bjørnar,Avaldsnes,Home,0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+361,2019-09-21,2019,Avaldsnes,Arna-Bjørnar,Away,2,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+362,2019-09-21,2019,Kolbotn,Stabæk,Home,3,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+362,2019-09-21,2019,Stabæk,Kolbotn,Away,2,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+363,2019-09-21,2019,LSK Kvinner,Sandviken,Home,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+363,2019-09-21,2019,Sandviken,LSK Kvinner,Away,0,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+364,2019-09-25,2019,Arna-Bjørnar,Røa,Home,2,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+364,2019-09-25,2019,Røa,Arna-Bjørnar,Away,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+365,2019-09-25,2019,Klepp,Fart,Home,4,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+365,2019-09-25,2019,Fart,Klepp,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+366,2019-09-28,2019,Stabæk,Vålerenga,Home,1,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+366,2019-09-28,2019,Vålerenga,Stabæk,Away,3,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+367,2019-09-28,2019,Avaldsnes,Lyn,Home,3,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+367,2019-09-28,2019,Lyn,Avaldsnes,Away,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+368,2019-09-29,2019,Klepp,Trondheims-Ørn,Home,2,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+368,2019-09-29,2019,Trondheims-Ørn,Klepp,Away,3,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+369,2019-09-29,2019,Røa,LSK Kvinner,Home,0,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+369,2019-09-29,2019,LSK Kvinner,Røa,Away,1,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+370,2019-09-29,2019,Sandviken,Arna-Bjørnar,Home,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+370,2019-09-29,2019,Arna-Bjørnar,Sandviken,Away,0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+371,2019-10-12,2019,Trondheims-Ørn,Kolbotn,Home,4,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+371,2019-10-12,2019,Kolbotn,Trondheims-Ørn,Away,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+372,2019-10-12,2019,LSK Kvinner,Avaldsnes,Home,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+372,2019-10-12,2019,Avaldsnes,LSK Kvinner,Away,1,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+373,2019-10-12,2019,Klepp,Stabæk,Home,5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+373,2019-10-12,2019,Stabæk,Klepp,Away,0,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+374,2019-10-12,2019,Vålerenga,Røa,Home,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+374,2019-10-12,2019,Røa,Vålerenga,Away,1,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+375,2019-10-12,2019,Sandviken,Fart,Home,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+375,2019-10-12,2019,Fart,Sandviken,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+376,2019-10-13,2019,Lyn,Arna-Bjørnar,Home,4,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+376,2019-10-13,2019,Arna-Bjørnar,Lyn,Away,5,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+377,2019-10-15,2019,Kolbotn,Fart,Home,4,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+377,2019-10-15,2019,Fart,Kolbotn,Away,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+378,2019-10-19,2019,Avaldsnes,Sandviken,Home,3,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+378,2019-10-19,2019,Sandviken,Avaldsnes,Away,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+379,2019-10-19,2019,Stabæk,Lyn,Home,1,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+379,2019-10-19,2019,Lyn,Stabæk,Away,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+380,2019-10-19,2019,Røa,Klepp,Home,1,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+380,2019-10-19,2019,Klepp,Røa,Away,4,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+381,2019-10-19,2019,Fart,Vålerenga,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+381,2019-10-19,2019,Vålerenga,Fart,Away,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+382,2019-10-20,2019,Arna-Bjørnar,Trondheims-Ørn,Home,0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+382,2019-10-20,2019,Trondheims-Ørn,Arna-Bjørnar,Away,0,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+383,2019-10-20,2019,Kolbotn,LSK Kvinner,Home,2,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+383,2019-10-20,2019,LSK Kvinner,Kolbotn,Away,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+384,2019-11-02,2019,Sandviken,Kolbotn,Home,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+384,2019-11-02,2019,Kolbotn,Sandviken,Away,2,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+385,2019-11-02,2019,Klepp,Arna-Bjørnar,Home,4,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+385,2019-11-02,2019,Arna-Bjørnar,Klepp,Away,0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+386,2019-11-02,2019,Lyn,Røa,Home,1,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+386,2019-11-02,2019,Røa,Lyn,Away,1,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+387,2019-11-02,2019,Trondheims-Ørn,Stabæk,Home,3,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+387,2019-11-02,2019,Stabæk,Trondheims-Ørn,Away,1,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+388,2019-11-02,2019,LSK Kvinner,Fart,Home,1,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388,2019-11-02,2019,Fart,LSK Kvinner,Away,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+389,2019-11-02,2019,Vålerenga,Avaldsnes,Home,1,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+389,2019-11-02,2019,Avaldsnes,Vålerenga,Away,1,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+390,2019-11-16,2019,Avaldsnes,Trondheims-Ørn,Home,0,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182
+390,2019-11-16,2019,Trondheims-Ørn,Avaldsnes,Away,1,10.0,24.0,21.8,4.0,6.0,12.0,-23.0,18.0,25.0,0.18181818181818182,9.0,21.0,24.0,5.0,6.0,11.0,-14.0,21.0,24.0,0.22727272727272727
+391,2019-11-16,2019,Røa,Sandviken,Home,2,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5
+391,2019-11-16,2019,Sandviken,Røa,Away,2,4.0,40.0,26.4,11.0,6.0,5.0,13.0,39.0,42.0,0.5,7.0,38.0,22.7,10.0,2.0,10.0,0.0,32.0,42.0,0.45454545454545453
+392,2019-11-16,2019,Stabæk,LSK Kvinner,Home,2,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091
+392,2019-11-16,2019,LSK Kvinner,Stabæk,Away,2,1.0,64.0,24.1,20.0,1.0,1.0,56.0,61.0,71.0,0.9090909090909091,8.0,29.0,23.6,7.0,2.0,13.0,-8.0,23.0,29.0,0.3181818181818182
+393,2019-11-16,2019,Kolbotn,Lyn,Home,0,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+393,2019-11-16,2019,Lyn,Kolbotn,Away,0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,5.0,32.0,21.2,11.0,6.0,5.0,-1.0,39.0,34.0,0.5
+394,2019-11-16,2019,Arna-Bjørnar,Vålerenga,Home,0,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453
+394,2019-11-16,2019,Vålerenga,Arna-Bjørnar,Away,2,6.0,32.0,25.6,10.0,3.0,9.0,2.0,33.0,37.0,0.45454545454545453,3.0,51.0,21.9,11.0,6.0,5.0,27.0,39.0,53.0,0.5
+395,2019-11-16,2019,Fart,Klepp,Home,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818
+395,2019-11-16,2019,Klepp,Fart,Away,6,2.0,37.0,25.1,15.0,3.0,4.0,18.0,48.0,39.0,0.6818181818181818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+396,2019-11-24,2019,IF Fløya,Lyn,Home,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
+396,2019-11-24,2019,Lyn,IF Fløya,Away,5,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397,2019-12-01,2019,Lyn,IF Fløya,Home,2,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397,2019-12-01,2019,IF Fløya,Lyn,Away,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,24.0,19.8,3.0,3.0,16.0,-29.0,12.0,27.0,0.13636363636363635
