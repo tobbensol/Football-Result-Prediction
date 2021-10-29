@@ -28,18 +28,8 @@ def predict():
     features = dict(request.form)   
     
     # expected keys
-    numeric_features = ['LotFrontage', 'LotArea', 'OverallQual', 'YrSold']
-    categorical_features = ['Street', 'HouseStyle', 'BsmtQual', 'GarageCond']
+    categorical_features = ["Team", "Opponent"]
     
-    # handle wrong input
-    def to_numeric(key, value, numeric_features = numeric_features):
-        if key not in numeric_features:
-            return value
-        try:
-            return float(value)
-        except:
-            return np.nan
-    features = {key: to_numeric(key, value) for key, value in features.items()}
 
     # prepare for prediction
     features_df = pd.DataFrame(features, index=[0]).loc[:, numeric_features + categorical_features]
@@ -57,7 +47,7 @@ def predict():
 
     # prepare output
     return render_template('./index.html',
-                           prediction_text='Predicted price {}'.format(prediction))
+                           prediction_text='Predicted price {2 - 2}'.format(prediction))
 
 if __name__ == '__main__':
     serve(app, host='0.0.0.0', port=8080)
