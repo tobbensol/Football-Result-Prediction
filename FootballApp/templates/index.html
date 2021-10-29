@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Data Science API</title>
+  </head>
+
+  <body>
+    <div class='login'>
+      <h1>Predict house price</h1>
+
+      <form action="{{url_for('predict')}}" method='post'>
+	<input type='text' name='LotArea' placeholder='Lot size in square feet' required='required' /> <br>
+	<input type='text' name='LotFrontage' placeholder='Linear feet of street connected to property' /> <br>
+	<input type='text' name='OverallQual' placeholder='Overall material and finish quality'/> <br>
+	<input type='text' name='YrSold' placeholder='Year Sold'/> <br>
+
+	<label for="Street">Type of road access:</label>
+	<select id="Street" name="Street">
+	  <option value="Pave">Paved</option>
+	  <option value="Grvl">Gravel</option>
+	</select> <br>
+
+	<label for="HouseStyle">Style of dwelling:</label>
+	<select id="HouseStyle" name="HouseStyle">
+	  <option value="1Story">1Story</option>
+	  <option value="2Story">2Story</option>
+	  <option value="1.5Fin">1.5Fin</option>
+	  <option value="1.5Unf">1.5Unf</option>
+	  <option value="SFoyer">SFoyer</option>
+	  <option value="SLvl">SLvl</option>
+	  <option value="2.5Unf">2.5Unf</option>
+	  <option value="2.5Fin">2.5Fin</option>	  
+	</select> <br>
+	<label for="BsmtQual">Height of the basement:</label>
+	<select id="BsmtQual" name="BsmtQual">
+	  <option value="TA">TA</option>
+	  <option value="Gd">Gd</option>
+	  <option value="Ex">Ex</option>
+	  <option value="Fa">Fa</option>
+	</select> <br>
+
+	<label for="GarageCond">Garage condition:</label>
+	<select id="GarageCond" name="GarageCond">
+	  <option value="TA">TA</option>
+	  <option value="Gd">Gd</option>
+	  <option value="Ex">Ex</option>
+	  <option value="Fa">Fa</option>
+	  <option value="Po">Po</option>
+	</select> <br>
+
+	<br><br>
+
+	<button type='submit' value='Submit'>Predict</button>
+	<button type='reset' value='Reset'>Reset</button>
+      </form>
+
+      <br>
+      {{prediction_text}}
+      
+    </div>
+  </body>
+</html>

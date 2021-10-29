@@ -1,0 +1,13 @@
+Model,RMSE
+Elastic Net,1.3964
+BaysianRidge,1.4172
+lasso Regression,1.4434
+Base line,1.4663
+Linear Regression,1.4832
+Multi-layer Perception,1.5652
+Random Forrest Regressor,1.589
+Support Vector Machines,1.5969
+Decision Tree Regressor,1.7488
+Decition Tree,1.763
+K Nearest Neighbors,1.8574
+Naive Bayes,3.2029
