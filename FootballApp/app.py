@@ -1,19 +1,12 @@
 import numpy as np
 import pandas as pd
 import pickle
+import sklearn
 
 from flask import Flask, request, jsonify, render_template
 from waitress import serve
 
-import sklearn
-
 app = Flask(__name__)
-
-# read and prepare model 
-model = pickle.load(open('model.pkl', 'rb'))
-x2020 = pd.read_csv("footballApp//data//y2020x.csv", encoding = "UTF-8")
-
-print(model.predict(x2020))
 
 @app.route('/')
 def home():
@@ -21,33 +14,37 @@ def home():
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    ''' 
-    Rendering results on HTML
-    '''
     # get data
-    features = dict(request.form)   
-    
-    # expected keys
-    categorical_features = ["Team", "Opponent"]
-    
+    choices = dict(request.form)  
 
-    # prepare for prediction
-    features_df = pd.DataFrame(features, index=[0]).loc[:, numeric_features + categorical_features]
-    print(features_df)
+    #imports extra data
+    features = pd.read_csv("FootballApp\\data\\features.csv", encoding = "UTF-8")
+    model = pickle.load(open('FootballApp\\data\\model.pkl', 'rb'))
+    label = pickle.load(open('FootballApp\\data\\labelBin.pkl', 'rb'))
     
-    # sjekk input
-    if features_df.loc[0, 'LotArea'] <= 0:
-        return render_template('./index.html',
-                               prediction_text='LotArea must be positive')
+    #makes a bare bones dataframe that contains the data we got from choices so that we can add data to it
+    X = pd.DataFrame(
+        [[choices["Home"], choices["Away"], 1],
+        [choices["Away"], choices["Home"], 0]]
+        ,columns=["Team", "Opponent", "Venue"])
 
-    # predict
-    prediction = model.predict(features_df)
-    prediction = np.round(prediction[0])
-    prediction = np.clip(prediction, 0, np.inf)
+    #i merge the extra 2019 features on both team and opponent 
+    X = pd.merge(X, features, how = 'left', on=["Team"])
+    features = features.rename(columns={"Team": "Opponent"})
+    X = pd.merge(X, features, how = 'left', on=["Opponent"])
 
-    # prepare output
-    return render_template('./index.html',
-                           prediction_text='Predicted price {2 - 2}'.format(prediction))
+    #adds the labelbinalized Team and Opponent to the dataframe and removes the team and opponent collumn
+    X = pd.concat([X, pd.DataFrame(label.transform(X["Team"]))], axis=1)
+    X = pd.concat([X, pd.DataFrame(label.transform(X["Opponent"]))], axis=1)
+    X = X.drop(["Team", "Opponent"], axis = 1).fillna(0)
+
+    # makes the prediction
+    prediction = model.predict(X)
+
+    # render with new prediction_text
+    return render_template(
+        './index.html',
+        prediction_text= f'Predicted score: {choices["Home"]} {round(prediction[0])} - {round(prediction[1])} {choices["Away"]}')
 
 if __name__ == '__main__':
     serve(app, host='0.0.0.0', port=8080)
