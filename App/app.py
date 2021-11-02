@@ -18,9 +18,9 @@ def predict():
     choices = dict(request.form)  
 
     #imports extra data
-    features = pd.read_csv("FootballApp\\data\\features.csv", encoding = "UTF-8")
-    model = pickle.load(open('FootballApp\\data\\model.pkl', 'rb'))
-    label = pickle.load(open('FootballApp\\data\\labelBin.pkl', 'rb'))
+    features = pd.read_csv("data\\features.csv", encoding = "UTF-8")
+    model = pickle.load(open('data\\model.pkl', 'rb'))
+    label = pickle.load(open('data\\labelBin.pkl', 'rb'))
     
     #makes a bare bones dataframe that contains the data we got from choices so that we can add data to it
     X = pd.DataFrame(

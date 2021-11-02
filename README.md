@@ -1,2 +1,0 @@
-# INF161-prosjekt
- 
